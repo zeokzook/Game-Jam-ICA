@@ -1,0 +1,1503 @@
+﻿Log file open, 05/02/20 20:56:35
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: MyProject2
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 20 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.228134
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+LogConfig: Warning: Failed to saved backup for config[C:/Users/mosne/Desktop/game jam/Hybrid-Games---Untitled-cybersled-game/Example project/Intermediate/Config/CoalescedSourceConfigs/Input.ini]
+LogConfig: Warning: Failed to saved backup for config[C:/Users/mosne/Desktop/game jam/Hybrid-Games---Untitled-cybersled-game/Example project/Intermediate/Config/CoalescedSourceConfigs/Editor.ini]
+LogConfig: Warning: Failed to saved backup for config[C:/Users/mosne/Desktop/game jam/Hybrid-Games---Untitled-cybersled-game/Example project/Intermediate/Config/CoalescedSourceConfigs/EditorSettings.ini]
+LogConfig: Warning: Failed to saved backup for config[C:/Users/mosne/Desktop/game jam/Hybrid-Games---Untitled-cybersled-game/Example project/Intermediate/Config/CoalescedSourceConfigs/EditorKeyBindings.ini]
+LogConfig: Warning: Failed to saved backup for config[C:/Users/mosne/Desktop/game jam/Hybrid-Games---Untitled-cybersled-game/Example project/Intermediate/Config/CoalescedSourceConfigs/Lightmass.ini]
+LogConfig: Warning: Failed to saved backup for config[C:/Users/mosne/Desktop/game jam/Hybrid-Games---Untitled-cybersled-game/Example project/Intermediate/Config/CoalescedSourceConfigs/Scalability.ini]
+LogConfig: Warning: Failed to saved backup for config[C:/Users/mosne/Desktop/game jam/Hybrid-Games---Untitled-cybersled-game/Example project/Intermediate/Config/CoalescedSourceConfigs/Hardware.ini]
+LogPluginManager: Mounting plugin Paper2D
+LogConfig: Warning: Failed to saved backup for config[C:/Users/mosne/Desktop/game jam/Hybrid-Games---Untitled-cybersled-game/Example project/Intermediate/Config/CoalescedSourceConfigs/Paper2D.ini]
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin Substance
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin ApexDestruction
+LogConfig: Warning: Failed to saved backup for config[C:/Users/mosne/Desktop/game jam/Hybrid-Games---Untitled-cybersled-game/Example project/Intermediate/Config/CoalescedSourceConfigs/ApexDestruction.ini]
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.613s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.21-CL-4753647
+LogInit: Engine Version: 4.21.2-4753647+++UE4+Release-4.21
+LogInit: Compatible Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Net CL: 4541578
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i5-9400F CPU @ 2.90GHz, GPU: NVIDIA GeForce RTX 2060
+LogInit: Compiled (64-bit): Jan 19 2019 02:07:31
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.21
+LogInit: Command Line: 
+LogInit: Base Directory: D:/Games/UE_4.21/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 22
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 26
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 27
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 17
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 4
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogStreaming: Display: Took  0.039s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.05.02-19.56.48:896][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.05.02-19.56.48:896][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.05.02-19.56.48:925][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/mosne/Desktop/game jam/Hybrid-Games---Untitled-cybersled-game/Example project/Saved/Config/Windows/Engine.ini]
+[2020.05.02-19.56.48:925][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.05.02-19.56.48:925][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/mosne/Desktop/game jam/Hybrid-Games---Untitled-cybersled-game/Example project/Saved/Config/Windows/Engine.ini]
+[2020.05.02-19.56.48:925][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/mosne/Desktop/game jam/Hybrid-Games---Untitled-cybersled-game/Example project/Saved/Config/Windows/Engine.ini]
+[2020.05.02-19.56.48:925][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.05.02-19.56.48:925][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.05.02-19.56.48:925][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.05.02-19.56.48:925][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.05.02-19.56.48:925][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.05.02-19.56.48:925][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.05.02-19.56.48:925][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.05.02-19.56.48:925][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.05.02-19.56.48:925][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.05.02-19.56.48:925][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.05.02-19.56.48:925][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.05.02-19.56.48:925][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.05.02-19.56.48:925][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.05.02-19.56.48:925][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/mosne/Desktop/game jam/Hybrid-Games---Untitled-cybersled-game/Example project/Saved/Config/Windows/Engine.ini]
+[2020.05.02-19.56.48:925][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.05.02-19.56.48:925][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.05.02-19.56.48:925][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.05.02-19.56.48:925][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.05.02-19.56.48:925][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.05.02-19.56.48:925][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.05.02-19.56.48:925][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:8388607]]
+[2020.05.02-19.56.48:925][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.05.02-19.56.48:925][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.05.02-19.56.48:926][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
+[2020.05.02-19.56.48:926][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.05.02-19.56.48:926][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.05.02-19.56.48:926][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.05.02-19.56.48:926][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.05.02-19.56.48:926][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/mosne/Desktop/game jam/Hybrid-Games---Untitled-cybersled-game/Example project/Saved/Config/Windows/Engine.ini]
+[2020.05.02-19.56.48:926][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/mosne/Desktop/game jam/Hybrid-Games---Untitled-cybersled-game/Example project/Saved/Config/Windows/Engine.ini]
+[2020.05.02-19.56.49:247][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/mosne/Desktop/game jam/Hybrid-Games---Untitled-cybersled-game/Example project/Saved/Config/Windows/Scalability.ini]
+[2020.05.02-19.56.49:247][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.05.02-19.56.49:247][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.05.02-19.56.49:247][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/mosne/Desktop/game jam/Hybrid-Games---Untitled-cybersled-game/Example project/Saved/Config/Windows/Scalability.ini]
+[2020.05.02-19.56.49:247][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.05.02-19.56.49:247][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/mosne/Desktop/game jam/Hybrid-Games---Untitled-cybersled-game/Example project/Saved/Config/Windows/Scalability.ini]
+[2020.05.02-19.56.49:247][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.05.02-19.56.49:247][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.05.02-19.56.49:247][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.05.02-19.56.49:247][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.05.02-19.56.49:247][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.05.02-19.56.49:247][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.05.02-19.56.49:247][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.05.02-19.56.49:247][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.05.02-19.56.49:247][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.05.02-19.56.49:247][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.05.02-19.56.49:247][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.05.02-19.56.49:247][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.05.02-19.56.49:247][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.05.02-19.56.49:247][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.05.02-19.56.49:247][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.05.02-19.56.49:247][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.05.02-19.56.49:247][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.05.02-19.56.49:247][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.05.02-19.56.49:247][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/mosne/Desktop/game jam/Hybrid-Games---Untitled-cybersled-game/Example project/Saved/Config/Windows/Scalability.ini]
+[2020.05.02-19.56.49:247][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.05.02-19.56.49:247][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.05.02-19.56.49:247][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.05.02-19.56.49:247][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.05.02-19.56.49:247][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.05.02-19.56.49:247][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.05.02-19.56.49:247][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.05.02-19.56.49:247][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.05.02-19.56.49:247][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.05.02-19.56.49:247][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.05.02-19.56.49:247][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.05.02-19.56.49:247][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.05.02-19.56.49:247][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.05.02-19.56.49:247][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.05.02-19.56.49:247][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.05.02-19.56.49:247][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.05.02-19.56.49:247][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.05.02-19.56.49:247][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.05.02-19.56.49:247][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.05.02-19.56.49:247][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.05.02-19.56.49:247][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.05.02-19.56.49:247][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.05.02-19.56.49:247][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.05.02-19.56.49:247][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.05.02-19.56.49:247][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.05.02-19.56.49:247][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.05.02-19.56.49:247][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.05.02-19.56.49:247][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.05.02-19.56.49:247][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.05.02-19.56.49:247][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.05.02-19.56.49:247][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/mosne/Desktop/game jam/Hybrid-Games---Untitled-cybersled-game/Example project/Saved/Config/Windows/Scalability.ini]
+[2020.05.02-19.56.49:247][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.05.02-19.56.49:247][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.05.02-19.56.49:247][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.05.02-19.56.49:247][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.05.02-19.56.49:247][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.05.02-19.56.49:247][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.05.02-19.56.49:247][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.05.02-19.56.49:247][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.05.02-19.56.49:247][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/mosne/Desktop/game jam/Hybrid-Games---Untitled-cybersled-game/Example project/Saved/Config/Windows/Scalability.ini]
+[2020.05.02-19.56.49:247][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.05.02-19.56.49:247][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.05.02-19.56.49:247][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.05.02-19.56.49:247][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.05.02-19.56.49:248][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.05.02-19.56.49:248][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.05.02-19.56.49:248][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.05.02-19.56.49:248][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.05.02-19.56.49:248][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.05.02-19.56.49:248][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.05.02-19.56.49:248][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.05.02-19.56.49:248][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.05.02-19.56.49:248][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.05.02-19.56.49:248][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/mosne/Desktop/game jam/Hybrid-Games---Untitled-cybersled-game/Example project/Saved/Config/Windows/Scalability.ini]
+[2020.05.02-19.56.49:248][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.05.02-19.56.49:248][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.05.02-19.56.49:303][  0]LogInit: Selected Device Profile: [Windows]
+[2020.05.02-19.56.49:303][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.05.02-19.56.49:360][  0]LogConfig: Warning: Failed to saved backup for config[C:/Users/mosne/Desktop/game jam/Hybrid-Games---Untitled-cybersled-game/Example project/Intermediate/Config/CoalescedSourceConfigs/DeviceProfiles.ini]
+[2020.05.02-19.56.49:537][  0]LogHAL: Display: Platform has ~ 16 GB [17125564416 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.05.02-19.56.49:545][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
+[2020.05.02-19.56.49:545][  0]LogInit: Going up to parent DeviceProfile []
+[2020.05.02-19.56.49:545][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/mosne/Desktop/game jam/Hybrid-Games---Untitled-cybersled-game/Example project/Saved/Config/Windows/Scalability.ini]
+[2020.05.02-19.56.49:545][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.05.02-19.56.49:545][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.05.02-19.56.49:545][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/mosne/Desktop/game jam/Hybrid-Games---Untitled-cybersled-game/Example project/Saved/Config/Windows/Scalability.ini]
+[2020.05.02-19.56.49:545][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.05.02-19.56.49:545][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/mosne/Desktop/game jam/Hybrid-Games---Untitled-cybersled-game/Example project/Saved/Config/Windows/Scalability.ini]
+[2020.05.02-19.56.49:545][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.05.02-19.56.49:545][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.05.02-19.56.49:545][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.05.02-19.56.49:545][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.05.02-19.56.49:545][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.05.02-19.56.49:545][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.05.02-19.56.49:545][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.05.02-19.56.49:545][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.05.02-19.56.49:545][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.05.02-19.56.49:545][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.05.02-19.56.49:545][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.05.02-19.56.49:545][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.05.02-19.56.49:545][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.05.02-19.56.49:545][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.05.02-19.56.49:545][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.05.02-19.56.49:545][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.05.02-19.56.49:545][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.05.02-19.56.49:545][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.05.02-19.56.49:545][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/mosne/Desktop/game jam/Hybrid-Games---Untitled-cybersled-game/Example project/Saved/Config/Windows/Scalability.ini]
+[2020.05.02-19.56.49:545][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.05.02-19.56.49:545][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.05.02-19.56.49:545][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.05.02-19.56.49:545][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.05.02-19.56.49:545][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.05.02-19.56.49:545][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.05.02-19.56.49:546][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.05.02-19.56.49:546][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.05.02-19.56.49:546][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.05.02-19.56.49:546][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.05.02-19.56.49:546][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.05.02-19.56.49:546][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.05.02-19.56.49:546][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.05.02-19.56.49:546][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.05.02-19.56.49:546][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.05.02-19.56.49:546][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.05.02-19.56.49:546][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.05.02-19.56.49:546][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.05.02-19.56.49:546][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.05.02-19.56.49:546][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.05.02-19.56.49:546][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.05.02-19.56.49:546][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.05.02-19.56.49:546][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.05.02-19.56.49:546][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.05.02-19.56.49:546][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.05.02-19.56.49:546][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.05.02-19.56.49:546][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.05.02-19.56.49:546][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.05.02-19.56.49:546][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.05.02-19.56.49:546][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.05.02-19.56.49:546][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/mosne/Desktop/game jam/Hybrid-Games---Untitled-cybersled-game/Example project/Saved/Config/Windows/Scalability.ini]
+[2020.05.02-19.56.49:546][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.05.02-19.56.49:546][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.05.02-19.56.49:546][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.05.02-19.56.49:546][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.05.02-19.56.49:546][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.05.02-19.56.49:546][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.05.02-19.56.49:546][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.05.02-19.56.49:546][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.05.02-19.56.49:546][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/mosne/Desktop/game jam/Hybrid-Games---Untitled-cybersled-game/Example project/Saved/Config/Windows/Scalability.ini]
+[2020.05.02-19.56.49:546][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.05.02-19.56.49:546][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.05.02-19.56.49:546][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.05.02-19.56.49:546][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.05.02-19.56.49:546][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.05.02-19.56.49:546][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.05.02-19.56.49:546][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.05.02-19.56.49:546][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.05.02-19.56.49:546][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.05.02-19.56.49:546][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.05.02-19.56.49:546][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.05.02-19.56.49:546][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.05.02-19.56.49:546][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.05.02-19.56.49:546][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/mosne/Desktop/game jam/Hybrid-Games---Untitled-cybersled-game/Example project/Saved/Config/Windows/Scalability.ini]
+[2020.05.02-19.56.49:546][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.05.02-19.56.49:546][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.05.02-19.56.49:546][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.05.02-19.56.49:594][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.05.02-19.56.49:594][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/mosne/Desktop/game jam/Hybrid-Games---Untitled-cybersled-game/Example project/Saved/Config/Windows/Engine.ini]
+[2020.05.02-19.56.49:741][  0]LogInit: Computer: DESKTOP-70DPEE6
+[2020.05.02-19.56.49:741][  0]LogInit: User: mosne
+[2020.05.02-19.56.49:741][  0]LogInit: CPU Page size=4096, Cores=6
+[2020.05.02-19.56.49:741][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.05.02-19.56.49:872][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2020.05.02-19.56.49:872][  0]LogMemory: Platform Memory Stats for Windows
+[2020.05.02-19.56.49:872][  0]LogMemory: Process Physical Memory: 103.84 MB used, 103.84 MB peak
+[2020.05.02-19.56.49:872][  0]LogMemory: Process Virtual Memory: 97.27 MB used, 97.27 MB peak
+[2020.05.02-19.56.49:872][  0]LogMemory: Physical Memory: 6328.55 MB used,  10003.66 MB free, 16332.21 MB total
+[2020.05.02-19.56.49:872][  0]LogMemory: Virtual Memory: 4637.65 MB used,  134213088.00 MB free, 134217728.00 MB total
+[2020.05.02-19.56.54:844][  0]LogInit: Using OS detected language (en-GB).
+[2020.05.02-19.56.54:844][  0]LogInit: Using OS detected locale (en-GB).
+[2020.05.02-19.56.55:161][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so the 'en' localization will be used.
+[2020.05.02-19.56.57:682][  0]LogStreaming: Display: Took  2.849s to InitEngineTextLocalization.
+[2020.05.02-19.56.57:748][  0]LogInit: Setting process to per monitor DPI aware
+[2020.05.02-19.57.00:514][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.05.02-19.57.00:514][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.05.02-19.57.06:873][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.05.02-19.57.06:873][  0]LogD3D11RHI: D3D11 adapters:
+[2020.05.02-19.57.07:022][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 2060' (Feature Level 11_0)
+[2020.05.02-19.57.07:022][  0]LogD3D11RHI:       5980/0/8166 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2020.05.02-19.57.07:028][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.05.02-19.57.07:028][  0]LogD3D11RHI:       0/0/8166 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.05.02-19.57.07:028][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.05.02-19.57.07:047][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.05.02-19.57.07:047][  0]LogD3D11RHI:     GPU DeviceId: 0x1f08 (for the marketing name, search the web for "GPU Device Id")
+[2020.05.02-19.57.07:047][  0]LogWindows: EnumDisplayDevices:
+[2020.05.02-19.57.07:047][  0]LogWindows:    0. 'NVIDIA GeForce RTX 2060' (P:1 D:1)
+[2020.05.02-19.57.07:070][  0]LogWindows:    1. 'NVIDIA GeForce RTX 2060' (P:0 D:0)
+[2020.05.02-19.57.07:071][  0]LogWindows:    2. 'NVIDIA GeForce RTX 2060' (P:0 D:0)
+[2020.05.02-19.57.07:071][  0]LogWindows:    3. 'NVIDIA GeForce RTX 2060' (P:0 D:0)
+[2020.05.02-19.57.07:071][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2020.05.02-19.57.07:071][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 2060
+[2020.05.02-19.57.07:072][  0]LogD3D11RHI:   Driver Version: 445.87 (internal:26.21.14.4587, unified:445.87)
+[2020.05.02-19.57.07:072][  0]LogD3D11RHI:      Driver Date: 4-3-2020
+[2020.05.02-19.57.07:072][  0]LogRHI: Texture pool is 4186 MB (70% of 5980 MB)
+[2020.05.02-19.57.07:143][  0]LogD3D11RHI: Async texture creation enabled
+[2020.05.02-19.57.08:478][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.05.02-19.57.11:038][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2020.05.02-19.57.11:112][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2020.05.02-19.57.11:180][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2020.05.02-19.57.11:214][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2020.05.02-19.57.11:354][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2020.05.02-19.57.11:484][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2020.05.02-19.57.11:582][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2020.05.02-19.57.11:651][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2020.05.02-19.57.11:669][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2020.05.02-19.57.11:913][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.05.02-19.57.11:913][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.05.02-19.57.11:913][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.05.02-19.57.11:913][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.05.02-19.57.11:913][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.05.02-19.57.11:913][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.05.02-19.57.11:913][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.05.02-19.57.11:913][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.05.02-19.57.11:913][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.05.02-19.57.11:913][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.05.02-19.57.11:913][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.05.02-19.57.11:913][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.05.02-19.57.11:913][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.05.02-19.57.11:913][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.05.02-19.57.11:913][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.05.02-19.57.11:913][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.05.02-19.57.11:913][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.05.02-19.57.11:913][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.05.02-19.57.11:993][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2020.05.02-19.57.12:334][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2020.05.02-19.57.12:334][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2020.05.02-19.57.12:377][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2020.05.02-19.57.12:377][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2020.05.02-19.57.12:440][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2020.05.02-19.57.12:475][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2020.05.02-19.57.12:517][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2020.05.02-19.57.12:599][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2020.05.02-19.57.12:675][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2020.05.02-19.57.12:675][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2020.05.02-19.57.12:675][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.05.02-19.57.15:709][  0]LogShaderCompilers: Guid format shader working directory is -40 characters bigger than the processId version (C:/Users/mosne/Desktop/game jam/Hybrid-Games---Untitled-cybersled-game/Example project/Intermediate/Shaders/WorkingDirectory/9576/).
+[2020.05.02-19.57.15:709][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/mosne/AppData/Local/Temp/UnrealShaderWorkingDir/C42FCA0646A543F002F86AA7D2E0CB17/'.
+[2020.05.02-19.57.15:956][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.05.02-19.57.15:956][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.05.02-19.57.15:956][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.05.02-19.57.28:342][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.05.02-19.57.28:618][  0]LogDerivedDataCache: Loaded boot cache 0.27s 71MB C:/Users/mosne/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2020.05.02-19.57.28:618][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/mosne/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc
+[2020.05.02-19.57.28:618][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/mosne/Desktop/game jam/Hybrid-Games---Untitled-cybersled-game/Example project/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.05.02-19.57.28:618][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.05.02-19.57.28:618][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/mosne/Desktop/game jam/Hybrid-Games---Untitled-cybersled-game/Example project/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.05.02-19.57.28:618][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.05.02-19.57.28:689][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.05.02-19.57.28:689][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.05.02-19.57.28:689][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.05.02-19.57.28:702][  0]LogDerivedDataCache: Using Local data cache path C:/Users/mosne/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.05.02-19.57.28:702][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.05.02-19.57.28:702][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.05.02-19.57.29:295][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.05.02-19.57.29:769][  0]LogSlate: Using FreeType 2.6.0
+[2020.05.02-19.57.30:111][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.05.02-19.57.32:804][  0]LogAssetRegistry: FAssetRegistry took 0.1157 seconds to start up
+[2020.05.02-19.57.54:445][  0]LogInit: Selected Device Profile: [Windows]
+[2020.05.02-19.57.58:663][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2020.05.02-19.57.59:256][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2020.05.02-19.57.59:273][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.05.02-19.57.59:304][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.05.02-19.57.59:304][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2020.05.02-19.58.00:899][  0]LogNetVersion: MyProject2 1.0.0, NetCL: 4541578, EngineNetVer: 5, GameNetVer: 0 (Checksum: 2078931443)
+[2020.05.02-19.58.10:871][  0]LogAssetRegistry: Error: Failed to open file for write C:/Users/mosne/Desktop/game jam/Hybrid-Games---Untitled-cybersled-game/Example project/Intermediate/AssetRegistryCache/aff1c699.bin
+[2020.05.02-19.58.10:880][  0]LogAssetRegistry: Error: Failed to open file for write C:/Users/mosne/Desktop/game jam/Hybrid-Games---Untitled-cybersled-game/Example project/Intermediate/AssetRegistryCache/266574c4.bin
+[2020.05.02-19.58.10:884][  0]LogFileManager: Warning: MoveFile was unable to move 'C:/Users/mosne/Desktop/game jam/Hybrid-Games---Untitled-cybersled-game/Example project/Intermediate/AssetRegistryCache/8c0e1344.bin.tmp' to 'C:/Users/mosne/Desktop/game jam/Hybrid-Games---Untitled-cybersled-game/Example project/Intermediate/AssetRegistryCache/8c0e1344.bin', retrying in .5s...
+[2020.05.02-19.58.11:385][  0]LogFileManager: Warning: MoveFile was unable to move 'C:/Users/mosne/Desktop/game jam/Hybrid-Games---Untitled-cybersled-game/Example project/Intermediate/AssetRegistryCache/8c0e1344.bin.tmp' to 'C:/Users/mosne/Desktop/game jam/Hybrid-Games---Untitled-cybersled-game/Example project/Intermediate/AssetRegistryCache/8c0e1344.bin', retrying in .5s...
+[2020.05.02-19.58.11:886][  0]LogFileManager: Warning: MoveFile was unable to move 'C:/Users/mosne/Desktop/game jam/Hybrid-Games---Untitled-cybersled-game/Example project/Intermediate/AssetRegistryCache/8c0e1344.bin.tmp' to 'C:/Users/mosne/Desktop/game jam/Hybrid-Games---Untitled-cybersled-game/Example project/Intermediate/AssetRegistryCache/8c0e1344.bin', retrying in .5s...
+[2020.05.02-19.58.12:386][  0]LogFileManager: Warning: MoveFile was unable to move 'C:/Users/mosne/Desktop/game jam/Hybrid-Games---Untitled-cybersled-game/Example project/Intermediate/AssetRegistryCache/8c0e1344.bin.tmp' to 'C:/Users/mosne/Desktop/game jam/Hybrid-Games---Untitled-cybersled-game/Example project/Intermediate/AssetRegistryCache/8c0e1344.bin', retrying in .5s...
+[2020.05.02-19.58.12:887][  0]LogFileManager: Warning: MoveFile was unable to move 'C:/Users/mosne/Desktop/game jam/Hybrid-Games---Untitled-cybersled-game/Example project/Intermediate/AssetRegistryCache/8c0e1344.bin.tmp' to 'C:/Users/mosne/Desktop/game jam/Hybrid-Games---Untitled-cybersled-game/Example project/Intermediate/AssetRegistryCache/8c0e1344.bin', retrying in .5s...
+[2020.05.02-19.58.13:388][  0]LogFileManager: Warning: MoveFile was unable to move 'C:/Users/mosne/Desktop/game jam/Hybrid-Games---Untitled-cybersled-game/Example project/Intermediate/AssetRegistryCache/8c0e1344.bin.tmp' to 'C:/Users/mosne/Desktop/game jam/Hybrid-Games---Untitled-cybersled-game/Example project/Intermediate/AssetRegistryCache/8c0e1344.bin', retrying in .5s...
+[2020.05.02-19.58.13:889][  0]LogFileManager: Warning: MoveFile was unable to move 'C:/Users/mosne/Desktop/game jam/Hybrid-Games---Untitled-cybersled-game/Example project/Intermediate/AssetRegistryCache/8c0e1344.bin.tmp' to 'C:/Users/mosne/Desktop/game jam/Hybrid-Games---Untitled-cybersled-game/Example project/Intermediate/AssetRegistryCache/8c0e1344.bin', retrying in .5s...
+[2020.05.02-19.58.14:390][  0]LogFileManager: Warning: MoveFile was unable to move 'C:/Users/mosne/Desktop/game jam/Hybrid-Games---Untitled-cybersled-game/Example project/Intermediate/AssetRegistryCache/8c0e1344.bin.tmp' to 'C:/Users/mosne/Desktop/game jam/Hybrid-Games---Untitled-cybersled-game/Example project/Intermediate/AssetRegistryCache/8c0e1344.bin', retrying in .5s...
+[2020.05.02-19.58.14:890][  0]LogFileManager: Warning: MoveFile was unable to move 'C:/Users/mosne/Desktop/game jam/Hybrid-Games---Untitled-cybersled-game/Example project/Intermediate/AssetRegistryCache/8c0e1344.bin.tmp' to 'C:/Users/mosne/Desktop/game jam/Hybrid-Games---Untitled-cybersled-game/Example project/Intermediate/AssetRegistryCache/8c0e1344.bin', retrying in .5s...
+[2020.05.02-19.58.15:391][  0]LogFileManager: Warning: MoveFile was unable to move 'C:/Users/mosne/Desktop/game jam/Hybrid-Games---Untitled-cybersled-game/Example project/Intermediate/AssetRegistryCache/8c0e1344.bin.tmp' to 'C:/Users/mosne/Desktop/game jam/Hybrid-Games---Untitled-cybersled-game/Example project/Intermediate/AssetRegistryCache/8c0e1344.bin', retrying in .5s...
+[2020.05.02-19.58.15:891][  0]LogFileManager: Error: Error moving file 'C:/Users/mosne/Desktop/game jam/Hybrid-Games---Untitled-cybersled-game/Example project/Intermediate/AssetRegistryCache/8c0e1344.bin.tmp' to 'C:/Users/mosne/Desktop/game jam/Hybrid-Games---Untitled-cybersled-game/Example project/Intermediate/AssetRegistryCache/8c0e1344.bin'.
+[2020.05.02-19.58.15:951][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 5.220895 seconds
+[2020.05.02-19.58.15:957][  0]LogUObjectArray: 39775 objects as part of root set at end of initial load.
+[2020.05.02-19.58.15:957][  0]LogUObjectAllocator: 6914656 out of 0 bytes used by permanent object pool.
+[2020.05.02-19.58.15:957][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.05.02-19.58.24:429][  0]LogSubstanceCoreModule: Substance [CPU] Engine Loaded, Max Texture Size = 2048
+[2020.05.02-19.58.24:531][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.05.02-19.58.24:582][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.05.02-19.58.26:709][  0]SourceControl: Source control is disabled
+[2020.05.02-19.58.26:729][  0]SourceControl: Source control is disabled
+[2020.05.02-19.58.26:828][  0]SourceControl: Source control is disabled
+[2020.05.02-19.58.26:855][  0]SourceControl: Source control is disabled
+[2020.05.02-19.58.28:302][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.05.02-19.58.28:592][  0]LogOcInput: OculusInput pre-init called
+[2020.05.02-19.58.31:048][  0]LogEngine: Initializing Engine...
+[2020.05.02-19.58.31:126][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.05.02-19.58.31:149][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2020.05.02-19.58.31:149][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2020.05.02-19.58.31:150][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2020.05.02-19.58.31:150][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.001 s
+[2020.05.02-19.58.31:514][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.05.02-19.58.32:457][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.05.02-19.58.32:852][  0]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2020.05.02-19.58.32:899][  0]LogInit: FAudioDevice initialized.
+[2020.05.02-19.58.32:916][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.05.02-19.58.32:923][  0]LogDerivedDataCache: Error: Could not save memory cache C:/Users/mosne/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2020.05.02-19.58.32:930][  0]LogInit: Texture streaming: Enabled
+[2020.05.02-19.58.33:172][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.05.02-19.58.33:804][  0]LogInit: Transaction tracking system initialized
+[2020.05.02-19.58.34:332][  0]BlueprintLog: New page: Editor Load
+[2020.05.02-19.58.36:073][  0]LocalizationService: Localization service is disabled
+[2020.05.02-19.58.36:295][  0]LogConfig: Warning: Failed to saved backup for config[C:/Users/mosne/Desktop/game jam/Hybrid-Games---Untitled-cybersled-game/Example project/Intermediate/Config/CoalescedSourceConfigs/Engine.ini]
+[2020.05.02-19.58.36:322][  0]LogConfig: Warning: Failed to saved backup for config[C:/Users/mosne/Desktop/game jam/Hybrid-Games---Untitled-cybersled-game/Example project/Intermediate/Config/CoalescedSourceConfigs/Engine.ini]
+[2020.05.02-19.58.36:374][  0]LogConfig: Warning: Failed to saved backup for config[C:/Users/mosne/Desktop/game jam/Hybrid-Games---Untitled-cybersled-game/Example project/Intermediate/Config/CoalescedSourceConfigs/Engine.ini]
+[2020.05.02-19.58.40:399][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.05.02-19.58.40:399][  0]LogCook: Display: Mobile HDR setting 1
+[2020.05.02-19.58.40:400][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2020.05.02-19.58.40:400][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2020.05.02-19.58.40:400][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2020.05.02-19.58.40:400][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2020.05.02-19.58.40:400][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2020.05.02-19.58.40:678][  0]LogFileCache: Scanning file cache for directory 'C:/Users/mosne/Desktop/game jam/Hybrid-Games---Untitled-cybersled-game/Example project/Content/' took 0.10s
+[2020.05.02-19.58.43:005][  0]SourceControl: Source control is disabled
+[2020.05.02-19.58.43:039][  0]Cmd: MAP LOAD FILE="C:/Users/mosne/Desktop/game jam/Hybrid-Games---Untitled-cybersled-game/Example project/Content/Prototype/Arena.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.05.02-19.58.43:063][  0]LightingResults: New page: Lighting Build
+[2020.05.02-19.58.43:433][  0]MapCheck: New page: Map Check
+[2020.05.02-19.58.43:433][  0]LightingResults: New page: Lighting Build
+[2020.05.02-19.58.47:908][  0]LogAIModule: Creating AISystem for world Arena
+[2020.05.02-19.58.48:346][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.05.02-19.58.48:419][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.05.02-19.58.48:419][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.134ms to complete.
+[2020.05.02-19.58.48:419][  0]LogFileHelpers: Loading map 'Arena' took 5.403
+[2020.05.02-19.58.52:572][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.02-19.58.52:602][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.02-19.58.52:607][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.02-19.58.52:614][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.02-19.58.52:841][  0]LogCollectionManager: Loaded 0 collections in 0.000632 seconds
+[2020.05.02-19.58.53:520][  0]LogFileCache: Scanning file cache for directory 'C:/Users/mosne/Desktop/game jam/Hybrid-Games---Untitled-cybersled-game/Example project/Saved/Collections/' took 0.01s
+[2020.05.02-19.58.53:521][  0]LogFileCache: Scanning file cache for directory 'C:/Users/mosne/Desktop/game jam/Hybrid-Games---Untitled-cybersled-game/Example project/Content/Developers/mosne/Collections/' took 0.01s
+[2020.05.02-19.58.53:521][  0]LogFileCache: Scanning file cache for directory 'C:/Users/mosne/Desktop/game jam/Hybrid-Games---Untitled-cybersled-game/Example project/Content/Collections/' took 0.01s
+[2020.05.02-19.58.53:521][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2020.05.02-19.58.53:592][  0]LogContentBrowser: Native class hierarchy populated in 0.0572 seconds. Added 2674 classes and 631 folders.
+[2020.05.02-19.58.54:265][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.05.02-19.58.54:380][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.02-19.58.54:496][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.02-19.58.54:536][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.02-19.58.54:587][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.02-19.58.54:616][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.02-19.58.54:624][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.02-19.58.54:687][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.02-19.58.54:708][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.02-19.58.54:715][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.02-19.58.54:881][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.02-19.58.54:921][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.02-19.58.54:926][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.02-19.58.54:950][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.02-19.58.54:993][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.02-19.58.55:034][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.02-19.58.55:039][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.02-19.58.55:097][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.02-19.58.55:137][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.02-19.58.55:217][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.02-19.58.55:222][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.02-19.58.55:271][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.02-19.58.55:277][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.02-19.58.55:284][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.02-19.58.55:339][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.02-19.58.55:380][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.02-19.58.55:431][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.02-19.58.56:131][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.05.02-19.58.56:165][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2020.05.02-19.58.56:790][  0]LogSlate: Took 0.000078 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.05.02-19.58.56:794][  0]LogSlate: Took 0.000268 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.05.02-19.58.56:955][  0]LogSlate: Took 0.037552 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.05.02-19.58.57:463][  0]LogRenderer: Reallocating scene render targets to support 1208x564 Format 10 NumSamples 1 (Frame:1).
+[2020.05.02-19.58.59:848][  0]LogSlate: Took 0.014190 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.05.02-19.59.00:439][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.05.02-19.59.00:439][  0]LogLoad: (Engine Initialization) Total time: 178.38 seconds
+[2020.05.02-19.59.00:439][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.05.02-19.59.00:991][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.05.02-19.59.01:567][  1]LogRenderer: Reallocating scene render targets to support 1208x580 Format 10 NumSamples 1 (Frame:3).
+[2020.05.02-19.59.01:567][  1]LogSubstanceLiveLink: Warning: Unable to send data along socket, closing connection
+[2020.05.02-19.59.01:636][  1]LogFileCache: Retrieving MD5 hashes for directory 'C:/Users/mosne/Desktop/game jam/Hybrid-Games---Untitled-cybersled-game/Example project/Content/' took 1.12s
+[2020.05.02-19.59.02:033][  2]LogAssetRegistry: Asset discovery search completed in 89.2726 seconds
+[2020.05.02-19.59.02:327][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2020.05.02-19.59.02:327][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000063 seconds (updated 0 objects)
+[2020.05.02-19.59.02:434][  2]LogSlate: Took 0.000231 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.05.02-19.59.04:076][ 76]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.02-19.59.16:196][572]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.02-19.59.23:907][256]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/Lennon/Collectibles/CoffeeCoin.CoffeeCoin
+[2020.05.02-19.59.26:149][256]LogRenderer: Reallocating scene render targets to support 1432x964 Format 10 NumSamples 1 (Frame:1).
+[2020.05.02-19.59.26:149][256]LogSlate: Took 0.010045 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.05.02-19.59.27:793][424]LogSlate: Window 'CoffeeCoin' being destroyed
+[2020.05.02-19.59.29:903][492]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Lennon/Collectibles/SpeedBoost.SpeedBoost
+[2020.05.02-19.59.30:732][492]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 117 classes and 0 folders.
+[2020.05.02-19.59.34:643][492]LogSlate: Took 0.000639 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.05.02-20.00.06:361][694]BlueprintLog: New page: Compile SpeedBoost
+[2020.05.02-20.00.11:657][734]LogSavePackage: Moving 'C:/Users/mosne/Desktop/game jam/Hybrid-Games---Untitled-cybersled-game/Example project/Saved/SpeedBoost1A70FD1144306BD85DC4E298E32E5B6E.tmp' to 'C:/Users/mosne/Desktop/game jam/Hybrid-Games---Untitled-cybersled-game/Example project/Content/Lennon/Collectibles/SpeedBoost.uasset'
+[2020.05.02-20.00.13:699][933]LogSlate: Window 'SpeedBoost' being destroyed
+[2020.05.02-20.00.31:781][129]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/PlayerCharacter.PlayerCharacter
+[2020.05.02-20.00.33:405][129]LogPropertyNode: Warning: Clamp Min (1000000000000000000) >= Clamp Max (1000000000000000000) for Ranged Numeric property /Game/PlayerCharacter.PlayerCharacter_C:MGAmmo
+[2020.05.02-20.00.33:405][129]LogPropertyNode: Warning: UI Min (1000000000000000000) >= UI Max (1000000000000000000) for Ranged Numeric property /Game/PlayerCharacter.PlayerCharacter_C:MGAmmo
+[2020.05.02-20.01.45:149][314]LogEditorTransaction: Undo Move Node
+[2020.05.02-20.01.46:804][417]LogEditorTransaction: Undo Delete current selection
+[2020.05.02-20.01.58:321][724]BlueprintLog: New page: Compile PlayerCharacter
+[2020.05.02-20.02.00:437][887]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerCharacter" FILE="C:/Users/mosne/Desktop/game jam/Hybrid-Games---Untitled-cybersled-game/Example project/Content/PlayerCharacter.uasset" SILENT=true
+[2020.05.02-20.02.00:649][887]LogSavePackage: Moving 'C:/Users/mosne/Desktop/game jam/Hybrid-Games---Untitled-cybersled-game/Example project/Saved/PlayerCharacter28AD6C884620169311E74EB508FB010E.tmp' to 'C:/Users/mosne/Desktop/game jam/Hybrid-Games---Untitled-cybersled-game/Example project/Content/PlayerCharacter.uasset'
+[2020.05.02-20.02.38:261][179]BlueprintLog: New page: Compile PlayerCharacter
+[2020.05.02-20.02.38:975][205]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerCharacter" FILE="C:/Users/mosne/Desktop/game jam/Hybrid-Games---Untitled-cybersled-game/Example project/Content/PlayerCharacter.uasset" SILENT=true
+[2020.05.02-20.02.39:142][205]LogSavePackage: Moving 'C:/Users/mosne/Desktop/game jam/Hybrid-Games---Untitled-cybersled-game/Example project/Saved/PlayerCharacterE812FE9846AA72A1FC83899B2C037DFD.tmp' to 'C:/Users/mosne/Desktop/game jam/Hybrid-Games---Untitled-cybersled-game/Example project/Content/PlayerCharacter.uasset'
+[2020.05.02-20.03.38:668][823]LogTemp: Repeating last play command: Selected Viewport
+[2020.05.02-20.03.38:879][823]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Prototype/Arena.Arena:PersistentLevel' has LevelScriptBlueprint '/Game/Prototype/Arena.Arena:PersistentLevel.Arena' with GeneratedClass '/Game/Prototype/Arena.Arena_C' with ClassGeneratedBy '/Game/Prototype/Arena.Arena:PersistentLevel.Arena'
+[2020.05.02-20.03.39:041][823]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.05.02-20.03.39:117][823]PIE: New page: PIE session: Arena (2 May 2020 22:03:39)
+[2020.05.02-20.03.39:706][823]LogPlayLevel: Creating play world package: /Game/Prototype/UEDPIE_0_Arena
+[2020.05.02-20.03.40:033][823]LogPlayLevel: PIE: StaticDuplicateObject took: (0.327237s)
+[2020.05.02-20.03.40:044][823]LogAIModule: Creating AISystem for world Arena
+[2020.05.02-20.03.40:100][823]LogPlayLevel: PIE: World Init took: (0.056441s)
+[2020.05.02-20.03.40:100][823]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Prototype/Arena.Arena to /Game/Prototype/UEDPIE_0_Arena.Arena (0.394579s)
+[2020.05.02-20.03.40:330][823]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2020.05.02-20.03.40:349][823]LogInit: FAudioDevice initialized.
+[2020.05.02-20.03.40:648][823]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.05.02-20.03.41:488][823]LogWorld: Bringing World /Game/Prototype/UEDPIE_0_Arena.Arena up for play (max tick rate 0) at 2020.05.02-21.03.41
+[2020.05.02-20.03.43:068][823]LogWorld: Bringing up level for play took: 1.673563
+[2020.05.02-20.03.44:489][823]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2020.05.02-20.03.45:414][823]PIE: Play in editor start time for /Game/Prototype/UEDPIE_0_Arena 6.561
+[2020.05.02-20.03.45:414][823]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Prototype/Arena.Arena:PersistentLevel' has LevelScriptBlueprint '/Game/Prototype/Arena.Arena:PersistentLevel.Arena' with GeneratedClass '/Game/Prototype/Arena.Arena_C' with ClassGeneratedBy '/Game/Prototype/Arena.Arena:PersistentLevel.Arena'
+[2020.05.02-20.03.55:871][433]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Prototype/Arena.Arena:PersistentLevel' has LevelScriptBlueprint '/Game/Prototype/Arena.Arena:PersistentLevel.Arena' with GeneratedClass '/Game/Prototype/Arena.Arena_C' with ClassGeneratedBy '/Game/Prototype/Arena.Arena:PersistentLevel.Arena'
+[2020.05.02-20.03.56:003][433]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.02-20.03.56:178][433]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.05.02-20.03.56:179][433]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Prototype/Arena.Arena:PersistentLevel' has LevelScriptBlueprint '/Game/Prototype/Arena.Arena:PersistentLevel.Arena' with GeneratedClass '/Game/Prototype/Arena.Arena_C' with ClassGeneratedBy '/Game/Prototype/Arena.Arena:PersistentLevel.Arena'
+[2020.05.02-20.03.56:329][433]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.02-20.03.56:434][434]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2020.05.02-20.04.06:638][600]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.02-20.04.09:973][938]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Lennon/Enemy/ENEMY_AI.ENEMY_AI
+[2020.05.02-20.04.22:780][121]LogSlate: Window 'ENEMY_AI' being destroyed
+[2020.05.02-20.04.33:512][166]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/AI/Aggressive_AI.Aggressive_AI
+[2020.05.02-20.04.57:820][959]BlueprintLog: New page: Compile Aggressive_AI
+[2020.05.02-20.04.58:723][ 37]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/Aggressive_AI" FILE="C:/Users/mosne/Desktop/game jam/Hybrid-Games---Untitled-cybersled-game/Example project/Content/AI/Aggressive_AI.uasset" SILENT=true
+[2020.05.02-20.04.58:836][ 37]LogSavePackage: Moving 'C:/Users/mosne/Desktop/game jam/Hybrid-Games---Untitled-cybersled-game/Example project/Saved/Aggressive_AICA51EF3C4BB9400EC7F31DBA01FBE654.tmp' to 'C:/Users/mosne/Desktop/game jam/Hybrid-Games---Untitled-cybersled-game/Example project/Content/AI/Aggressive_AI.uasset'
+[2020.05.02-20.04.58:837][ 37]LogFileManager: Warning: DeleteFile was unable to delete 'C:/Users/mosne/Desktop/game jam/Hybrid-Games---Untitled-cybersled-game/Example project/Content/AI/Aggressive_AI.uasset', retrying in .5s...
+[2020.05.02-20.04.59:338][ 37]LogFileManager: Error: Error deleting file 'C:/Users/mosne/Desktop/game jam/Hybrid-Games---Untitled-cybersled-game/Example project/Content/AI/Aggressive_AI.uasset'.
+[2020.05.02-20.04.59:338][ 37]LogSavePackage: Error: Error saving 'C:/Users/mosne/Desktop/game jam/Hybrid-Games---Untitled-cybersled-game/Example project/Content/AI/Aggressive_AI.uasset'
+[2020.05.02-20.05.07:455][ 37]LogSlate: Window 'Message' being destroyed
+[2020.05.02-20.05.07:459][ 37]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/Aggressive_AI" FILE="C:/Users/mosne/Desktop/game jam/Hybrid-Games---Untitled-cybersled-game/Example project/Content/AI/Aggressive_AI.uasset" SILENT=true
+[2020.05.02-20.05.07:517][ 37]LogSavePackage: Moving 'C:/Users/mosne/Desktop/game jam/Hybrid-Games---Untitled-cybersled-game/Example project/Saved/Aggressive_AIAE31A1764412EB52884FA7BDE6DC73B7.tmp' to 'C:/Users/mosne/Desktop/game jam/Hybrid-Games---Untitled-cybersled-game/Example project/Content/AI/Aggressive_AI.uasset'
+[2020.05.02-20.05.07:517][ 37]LogFileManager: Warning: DeleteFile was unable to delete 'C:/Users/mosne/Desktop/game jam/Hybrid-Games---Untitled-cybersled-game/Example project/Content/AI/Aggressive_AI.uasset', retrying in .5s...
+[2020.05.02-20.05.08:017][ 37]LogFileManager: Error: Error deleting file 'C:/Users/mosne/Desktop/game jam/Hybrid-Games---Untitled-cybersled-game/Example project/Content/AI/Aggressive_AI.uasset'.
+[2020.05.02-20.05.08:017][ 37]LogSavePackage: Error: Error saving 'C:/Users/mosne/Desktop/game jam/Hybrid-Games---Untitled-cybersled-game/Example project/Content/AI/Aggressive_AI.uasset'
+[2020.05.02-20.05.08:902][ 37]LogSlate: Window 'Message' being destroyed
+[2020.05.02-20.05.08:908][ 37]EditorErrors: New page: Save Output
+[2020.05.02-20.05.08:908][ 37]EditorErrors: Warning: Error saving 'C:/Users/mosne/Desktop/game jam/Hybrid-Games---Untitled-cybersled-game/Example project/Content/AI/Aggressive_AI.uasset'
+[2020.05.02-20.05.08:908][ 37]EditorErrors: Warning: Error saving 'C:/Users/mosne/Desktop/game jam/Hybrid-Games---Untitled-cybersled-game/Example project/Content/AI/Aggressive_AI.uasset'
+[2020.05.02-20.05.10:798][ 37]LogSlate: Window 'Packages Failed To Save' being destroyed
+[2020.05.02-20.05.14:109][426]LogSlate: Window 'Message Log' being destroyed
+[2020.05.02-20.05.14:113][426]LogSlate: Window 'Message Log' being destroyed
+[2020.05.02-20.05.33:027][647]BlueprintLog: New page: Compile Aggressive_AI
+[2020.05.02-20.05.33:762][705]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/Aggressive_AI" FILE="C:/Users/mosne/Desktop/game jam/Hybrid-Games---Untitled-cybersled-game/Example project/Content/AI/Aggressive_AI.uasset" SILENT=true
+[2020.05.02-20.05.33:829][705]LogSavePackage: Moving 'C:/Users/mosne/Desktop/game jam/Hybrid-Games---Untitled-cybersled-game/Example project/Saved/Aggressive_AI8CE470BF4AED9B29CA0B1A81D9485AF4.tmp' to 'C:/Users/mosne/Desktop/game jam/Hybrid-Games---Untitled-cybersled-game/Example project/Content/AI/Aggressive_AI.uasset'
+[2020.05.02-20.05.33:829][705]LogFileManager: Warning: DeleteFile was unable to delete 'C:/Users/mosne/Desktop/game jam/Hybrid-Games---Untitled-cybersled-game/Example project/Content/AI/Aggressive_AI.uasset', retrying in .5s...
+[2020.05.02-20.05.34:329][705]LogFileManager: Error: Error deleting file 'C:/Users/mosne/Desktop/game jam/Hybrid-Games---Untitled-cybersled-game/Example project/Content/AI/Aggressive_AI.uasset'.
+[2020.05.02-20.05.34:329][705]LogSavePackage: Error: Error saving 'C:/Users/mosne/Desktop/game jam/Hybrid-Games---Untitled-cybersled-game/Example project/Content/AI/Aggressive_AI.uasset'
+[2020.05.02-20.05.35:582][705]LogSlate: Window 'Message' being destroyed
+[2020.05.02-20.05.35:587][705]EditorErrors: New page: Save Output
+[2020.05.02-20.05.35:587][705]EditorErrors: Warning: Error saving 'C:/Users/mosne/Desktop/game jam/Hybrid-Games---Untitled-cybersled-game/Example project/Content/AI/Aggressive_AI.uasset'
+[2020.05.02-20.05.36:602][705]LogSlate: Window 'Packages Failed To Save' being destroyed
+[2020.05.02-20.05.45:004][498]LogSlate: Window 'Message Log' being destroyed
+[2020.05.02-20.05.45:008][498]LogSlate: Window 'Message Log' being destroyed
+[2020.05.02-20.05.48:454][908]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lennon/Enemy/ENEMY_AI" FILE="C:/Users/mosne/Desktop/game jam/Hybrid-Games---Untitled-cybersled-game/Example project/Content/Lennon/Enemy/ENEMY_AI.uasset" SILENT=true
+[2020.05.02-20.05.48:564][908]LogSavePackage: Moving 'C:/Users/mosne/Desktop/game jam/Hybrid-Games---Untitled-cybersled-game/Example project/Saved/ENEMY_AIAFE675B549A0CDFA4077E8BB77715336.tmp' to 'C:/Users/mosne/Desktop/game jam/Hybrid-Games---Untitled-cybersled-game/Example project/Content/Lennon/Enemy/ENEMY_AI.uasset'
+[2020.05.02-20.05.52:164][329]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/Aggressive_AI" FILE="C:/Users/mosne/Desktop/game jam/Hybrid-Games---Untitled-cybersled-game/Example project/Content/AI/Aggressive_AI.uasset" SILENT=true
+[2020.05.02-20.05.52:222][329]LogSavePackage: Moving 'C:/Users/mosne/Desktop/game jam/Hybrid-Games---Untitled-cybersled-game/Example project/Saved/Aggressive_AI816A5BD341AC3B5701B1B9827F32C9A6.tmp' to 'C:/Users/mosne/Desktop/game jam/Hybrid-Games---Untitled-cybersled-game/Example project/Content/AI/Aggressive_AI.uasset'
+[2020.05.02-20.05.52:223][329]LogFileManager: Warning: DeleteFile was unable to delete 'C:/Users/mosne/Desktop/game jam/Hybrid-Games---Untitled-cybersled-game/Example project/Content/AI/Aggressive_AI.uasset', retrying in .5s...
+[2020.05.02-20.05.52:724][329]LogFileManager: Error: Error deleting file 'C:/Users/mosne/Desktop/game jam/Hybrid-Games---Untitled-cybersled-game/Example project/Content/AI/Aggressive_AI.uasset'.
+[2020.05.02-20.05.52:724][329]LogSavePackage: Error: Error saving 'C:/Users/mosne/Desktop/game jam/Hybrid-Games---Untitled-cybersled-game/Example project/Content/AI/Aggressive_AI.uasset'
+[2020.05.02-20.05.57:482][329]LogSlate: Window 'Message' being destroyed
+[2020.05.02-20.05.57:486][329]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/Aggressive_AI" FILE="C:/Users/mosne/Desktop/game jam/Hybrid-Games---Untitled-cybersled-game/Example project/Content/AI/Aggressive_AI.uasset" SILENT=true
+[2020.05.02-20.05.57:542][329]LogSavePackage: Moving 'C:/Users/mosne/Desktop/game jam/Hybrid-Games---Untitled-cybersled-game/Example project/Saved/Aggressive_AIF2F27B554F24C45E874A9E8FF7C5CB56.tmp' to 'C:/Users/mosne/Desktop/game jam/Hybrid-Games---Untitled-cybersled-game/Example project/Content/AI/Aggressive_AI.uasset'
+[2020.05.02-20.05.57:542][329]LogFileManager: Warning: DeleteFile was unable to delete 'C:/Users/mosne/Desktop/game jam/Hybrid-Games---Untitled-cybersled-game/Example project/Content/AI/Aggressive_AI.uasset', retrying in .5s...
+[2020.05.02-20.05.58:044][329]LogFileManager: Error: Error deleting file 'C:/Users/mosne/Desktop/game jam/Hybrid-Games---Untitled-cybersled-game/Example project/Content/AI/Aggressive_AI.uasset'.
+[2020.05.02-20.05.58:044][329]LogSavePackage: Error: Error saving 'C:/Users/mosne/Desktop/game jam/Hybrid-Games---Untitled-cybersled-game/Example project/Content/AI/Aggressive_AI.uasset'
+[2020.05.02-20.05.59:507][329]LogSlate: Window 'Message' being destroyed
+[2020.05.02-20.05.59:511][329]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/Aggressive_AI" FILE="C:/Users/mosne/Desktop/game jam/Hybrid-Games---Untitled-cybersled-game/Example project/Content/AI/Aggressive_AI.uasset" SILENT=true
+[2020.05.02-20.05.59:567][329]LogSavePackage: Moving 'C:/Users/mosne/Desktop/game jam/Hybrid-Games---Untitled-cybersled-game/Example project/Saved/Aggressive_AI37A4548944076C95C5FCB892D6FCA357.tmp' to 'C:/Users/mosne/Desktop/game jam/Hybrid-Games---Untitled-cybersled-game/Example project/Content/AI/Aggressive_AI.uasset'
+[2020.05.02-20.05.59:567][329]LogFileManager: Warning: DeleteFile was unable to delete 'C:/Users/mosne/Desktop/game jam/Hybrid-Games---Untitled-cybersled-game/Example project/Content/AI/Aggressive_AI.uasset', retrying in .5s...
+[2020.05.02-20.06.00:067][329]LogFileManager: Error: Error deleting file 'C:/Users/mosne/Desktop/game jam/Hybrid-Games---Untitled-cybersled-game/Example project/Content/AI/Aggressive_AI.uasset'.
+[2020.05.02-20.06.00:067][329]LogSavePackage: Error: Error saving 'C:/Users/mosne/Desktop/game jam/Hybrid-Games---Untitled-cybersled-game/Example project/Content/AI/Aggressive_AI.uasset'
+[2020.05.02-20.06.01:837][329]LogSlate: Window 'Message' being destroyed
+[2020.05.02-20.06.01:843][329]EditorErrors: New page: Save Output
+[2020.05.02-20.06.01:843][329]EditorErrors: Warning: Error saving 'C:/Users/mosne/Desktop/game jam/Hybrid-Games---Untitled-cybersled-game/Example project/Content/AI/Aggressive_AI.uasset'
+[2020.05.02-20.06.01:843][329]EditorErrors: Warning: Error saving 'C:/Users/mosne/Desktop/game jam/Hybrid-Games---Untitled-cybersled-game/Example project/Content/AI/Aggressive_AI.uasset'
+[2020.05.02-20.06.01:843][329]EditorErrors: Warning: Error saving 'C:/Users/mosne/Desktop/game jam/Hybrid-Games---Untitled-cybersled-game/Example project/Content/AI/Aggressive_AI.uasset'
+[2020.05.02-20.06.03:699][329]LogSlate: Window 'Packages Failed To Save' being destroyed
+[2020.05.02-20.06.03:715][330]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (52.844 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.05.02-20.06.05:124][499]LogSlate: Window 'Message Log' being destroyed
+[2020.05.02-20.06.05:129][499]LogSlate: Window 'Message Log' being destroyed
+[2020.05.02-20.06.11:005][201]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerCharacter" FILE="C:/Users/mosne/Desktop/game jam/Hybrid-Games---Untitled-cybersled-game/Example project/Content/PlayerCharacter.uasset" SILENT=true
+[2020.05.02-20.06.11:166][201]LogSavePackage: Moving 'C:/Users/mosne/Desktop/game jam/Hybrid-Games---Untitled-cybersled-game/Example project/Saved/PlayerCharacter0FB854404A2237433DB8E1AEA50174D1.tmp' to 'C:/Users/mosne/Desktop/game jam/Hybrid-Games---Untitled-cybersled-game/Example project/Content/PlayerCharacter.uasset'
+[2020.05.02-20.06.12:770][383]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.05.02-20.06.14:159][491]LogSavePackage: Moving 'C:/Users/mosne/Desktop/game jam/Hybrid-Games---Untitled-cybersled-game/Example project/Saved/Arena0A2596324CC44E4F4704BCA0C6FFC3A2.tmp' to 'C:/Users/mosne/Desktop/game jam/Hybrid-Games---Untitled-cybersled-game/Example project/Content/Prototype/Arena.umap'
+[2020.05.02-20.06.14:159][491]LogFileManager: Warning: DeleteFile was unable to delete 'C:/Users/mosne/Desktop/game jam/Hybrid-Games---Untitled-cybersled-game/Example project/Content/Prototype/Arena.umap', retrying in .5s...
+[2020.05.02-20.06.14:660][491]LogFileManager: Error: Error deleting file 'C:/Users/mosne/Desktop/game jam/Hybrid-Games---Untitled-cybersled-game/Example project/Content/Prototype/Arena.umap'.
+[2020.05.02-20.06.14:660][491]LogSavePackage: Error: Error saving 'C:/Users/mosne/Desktop/game jam/Hybrid-Games---Untitled-cybersled-game/Example project/Content/Prototype/Arena.umap'
+[2020.05.02-20.06.14:698][491]EditorErrors: New page: Save Output
+[2020.05.02-20.06.14:698][491]EditorErrors: Warning: Error saving 'C:/Users/mosne/Desktop/game jam/Hybrid-Games---Untitled-cybersled-game/Example project/Content/Prototype/Arena.umap'
+[2020.05.02-20.06.16:923][755]LogSlate: Window 'Message Log' being destroyed
+[2020.05.02-20.06.16:927][755]LogSlate: Window 'Message Log' being destroyed
+[2020.05.02-20.06.18:816][982]LogTemp: Repeating last play command: Selected Viewport
+[2020.05.02-20.06.18:848][982]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Prototype/Arena.Arena:PersistentLevel' has LevelScriptBlueprint '/Game/Prototype/Arena.Arena:PersistentLevel.Arena' with GeneratedClass '/Game/Prototype/Arena.Arena_C' with ClassGeneratedBy '/Game/Prototype/Arena.Arena:PersistentLevel.Arena'
+[2020.05.02-20.06.18:848][982]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.05.02-20.06.18:848][982]PIE: New page: PIE session: Arena (2 May 2020 22:06:18)
+[2020.05.02-20.06.18:876][982]LogPlayLevel: Creating play world package: /Game/Prototype/UEDPIE_0_Arena
+[2020.05.02-20.06.18:883][982]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006921s)
+[2020.05.02-20.06.18:883][982]LogAIModule: Creating AISystem for world Arena
+[2020.05.02-20.06.18:883][982]LogPlayLevel: PIE: World Init took: (0.000549s)
+[2020.05.02-20.06.18:883][982]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Prototype/Arena.Arena to /Game/Prototype/UEDPIE_0_Arena.Arena (0.007606s)
+[2020.05.02-20.06.18:919][982]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2020.05.02-20.06.18:938][982]LogInit: FAudioDevice initialized.
+[2020.05.02-20.06.18:967][982]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.05.02-20.06.18:969][982]LogWorld: Bringing World /Game/Prototype/UEDPIE_0_Arena.Arena up for play (max tick rate 0) at 2020.05.02-21.06.18
+[2020.05.02-20.06.18:969][982]LogWorld: Bringing up level for play took: 0.001522
+[2020.05.02-20.06.18:999][982]PIE: Play in editor start time for /Game/Prototype/UEDPIE_0_Arena 0.155
+[2020.05.02-20.06.18:999][982]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Prototype/Arena.Arena:PersistentLevel' has LevelScriptBlueprint '/Game/Prototype/Arena.Arena:PersistentLevel.Arena' with GeneratedClass '/Game/Prototype/Arena.Arena_C' with ClassGeneratedBy '/Game/Prototype/Arena.Arena:PersistentLevel.Arena'
+[2020.05.02-20.06.20:222][ 79]LogBlueprintUserMessages: [Aggressive_AI_2] 1
+[2020.05.02-20.06.20:243][ 80]LogBlueprintUserMessages: [NewPawn_C_0] You have progresed to next level!
+[2020.05.02-20.06.20:253][ 81]LogNet: Browse: /Game/NextLevel
+[2020.05.02-20.06.20:257][ 81]LogLoad: LoadMap: /Game/NextLevel
+[2020.05.02-20.06.20:441][ 81]LogAIModule: Creating AISystem for world NextLevel
+[2020.05.02-20.06.20:442][ 81]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.05.02-20.06.20:447][ 81]LogWorld: Bringing World /Game/UEDPIE_0_NextLevel.NextLevel up for play (max tick rate 0) at 2020.05.02-21.06.20
+[2020.05.02-20.06.20:448][ 81]LogWorld: Bringing up level for play took: 0.005893
+[2020.05.02-20.06.20:501][ 81]LogLoad: Took 0.244330 seconds to LoadMap(/Game/NextLevel)
+[2020.05.02-20.06.24:813][342]LogBlueprintUserMessages: [ENEMY_AI2_8] 1
+[2020.05.02-20.06.24:813][342]LogBlueprintUserMessages: [NewPawn_C_0] You have progresed to next level!
+[2020.05.02-20.06.24:820][343]LogNet: Browse: /Game/NextLevel
+[2020.05.02-20.06.24:820][343]LogLoad: LoadMap: /Game/NextLevel
+[2020.05.02-20.06.24:872][343]LogAIModule: Creating AISystem for world NextLevel
+[2020.05.02-20.06.24:873][343]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.05.02-20.06.24:878][343]LogWorld: Bringing World /Game/UEDPIE_0_NextLevel.NextLevel up for play (max tick rate 0) at 2020.05.02-21.06.24
+[2020.05.02-20.06.24:878][343]LogWorld: Bringing up level for play took: 0.005352
+[2020.05.02-20.06.24:891][343]LogLoad: Took 0.071890 seconds to LoadMap(/Game/NextLevel)
+[2020.05.02-20.06.29:609][639]LogBlueprintUserMessages: [ENEMY_AI2_8] 1
+[2020.05.02-20.06.29:610][639]LogBlueprintUserMessages: [NewPawn_C_0] You have progresed to next level!
+[2020.05.02-20.06.29:618][640]LogNet: Browse: /Game/NextLevel
+[2020.05.02-20.06.29:618][640]LogLoad: LoadMap: /Game/NextLevel
+[2020.05.02-20.06.29:667][640]LogAIModule: Creating AISystem for world NextLevel
+[2020.05.02-20.06.29:668][640]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.05.02-20.06.29:673][640]LogWorld: Bringing World /Game/UEDPIE_0_NextLevel.NextLevel up for play (max tick rate 0) at 2020.05.02-21.06.29
+[2020.05.02-20.06.29:674][640]LogWorld: Bringing up level for play took: 0.005590
+[2020.05.02-20.06.29:687][640]LogLoad: Took 0.069313 seconds to LoadMap(/Game/NextLevel)
+[2020.05.02-20.06.31:018][728]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Prototype/Arena.Arena:PersistentLevel' has LevelScriptBlueprint '/Game/Prototype/Arena.Arena:PersistentLevel.Arena' with GeneratedClass '/Game/Prototype/Arena.Arena_C' with ClassGeneratedBy '/Game/Prototype/Arena.Arena:PersistentLevel.Arena'
+[2020.05.02-20.06.31:018][728]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.02-20.06.31:057][728]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.05.02-20.06.31:057][728]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Prototype/Arena.Arena:PersistentLevel' has LevelScriptBlueprint '/Game/Prototype/Arena.Arena:PersistentLevel.Arena' with GeneratedClass '/Game/Prototype/Arena.Arena_C' with ClassGeneratedBy '/Game/Prototype/Arena.Arena:PersistentLevel.Arena'
+[2020.05.02-20.06.31:084][728]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.02-20.06.31:117][730]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2020.05.02-20.06.33:751][ 46]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.02-20.06.55:243][588]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Lennon/Enemy/ENEMY_AI.ENEMY_AI
+[2020.05.02-20.07.51:699][301]BlueprintLog: New page: Compile Aggressive_AI
+[2020.05.02-20.07.53:774][521]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/Aggressive_AI" FILE="C:/Users/mosne/Desktop/game jam/Hybrid-Games---Untitled-cybersled-game/Example project/Content/AI/Aggressive_AI.uasset" SILENT=true
+[2020.05.02-20.07.53:832][521]LogSavePackage: Moving 'C:/Users/mosne/Desktop/game jam/Hybrid-Games---Untitled-cybersled-game/Example project/Saved/Aggressive_AIF56128B74BA724C82CA5C28D6833E93C.tmp' to 'C:/Users/mosne/Desktop/game jam/Hybrid-Games---Untitled-cybersled-game/Example project/Content/AI/Aggressive_AI.uasset'
+[2020.05.02-20.07.53:832][521]LogFileManager: Warning: DeleteFile was unable to delete 'C:/Users/mosne/Desktop/game jam/Hybrid-Games---Untitled-cybersled-game/Example project/Content/AI/Aggressive_AI.uasset', retrying in .5s...
+[2020.05.02-20.07.54:334][521]LogFileManager: Error: Error deleting file 'C:/Users/mosne/Desktop/game jam/Hybrid-Games---Untitled-cybersled-game/Example project/Content/AI/Aggressive_AI.uasset'.
+[2020.05.02-20.07.54:334][521]LogSavePackage: Error: Error saving 'C:/Users/mosne/Desktop/game jam/Hybrid-Games---Untitled-cybersled-game/Example project/Content/AI/Aggressive_AI.uasset'
+[2020.05.02-20.07.58:421][521]LogSlate: Window 'Message' being destroyed
+[2020.05.02-20.07.58:428][521]EditorErrors: New page: Save Output
+[2020.05.02-20.07.58:428][521]EditorErrors: Warning: Error saving 'C:/Users/mosne/Desktop/game jam/Hybrid-Games---Untitled-cybersled-game/Example project/Content/AI/Aggressive_AI.uasset'
+[2020.05.02-20.08.00:148][726]LogSlate: Window 'Message Log' being destroyed
+[2020.05.02-20.08.00:151][726]LogSlate: Window 'Message Log' being destroyed
+[2020.05.02-20.08.22:383][309]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/Aggressive_AI" FILE="C:/Users/mosne/Desktop/game jam/Hybrid-Games---Untitled-cybersled-game/Example project/Content/AI/Aggressive_AI.uasset" SILENT=true
+[2020.05.02-20.08.22:443][309]LogSavePackage: Moving 'C:/Users/mosne/Desktop/game jam/Hybrid-Games---Untitled-cybersled-game/Example project/Saved/Aggressive_AI0EDEEB28412B6E6F0CBF38856731B53B.tmp' to 'C:/Users/mosne/Desktop/game jam/Hybrid-Games---Untitled-cybersled-game/Example project/Content/AI/Aggressive_AI.uasset'
+[2020.05.02-20.08.22:444][309]LogFileManager: Warning: DeleteFile was unable to delete 'C:/Users/mosne/Desktop/game jam/Hybrid-Games---Untitled-cybersled-game/Example project/Content/AI/Aggressive_AI.uasset', retrying in .5s...
+[2020.05.02-20.08.22:945][309]LogFileManager: Error: Error deleting file 'C:/Users/mosne/Desktop/game jam/Hybrid-Games---Untitled-cybersled-game/Example project/Content/AI/Aggressive_AI.uasset'.
+[2020.05.02-20.08.22:945][309]LogSavePackage: Error: Error saving 'C:/Users/mosne/Desktop/game jam/Hybrid-Games---Untitled-cybersled-game/Example project/Content/AI/Aggressive_AI.uasset'
+[2020.05.02-20.08.24:393][309]LogSlate: Window 'Message' being destroyed
+[2020.05.02-20.08.24:400][309]EditorErrors: New page: Save Output
+[2020.05.02-20.08.24:400][309]EditorErrors: Warning: Error saving 'C:/Users/mosne/Desktop/game jam/Hybrid-Games---Untitled-cybersled-game/Example project/Content/AI/Aggressive_AI.uasset'
+[2020.05.02-20.08.25:774][472]LogSlate: Window 'Message Log' being destroyed
+[2020.05.02-20.08.25:777][472]LogSlate: Window 'Message Log' being destroyed
+[2020.05.02-20.08.26:532][563]BlueprintLog: New page: Compile Aggressive_AI
+[2020.05.02-20.08.26:580][563]LogBlueprint: Error: [Compiler Aggressive_AI] This blueprint (self) is not a PlayerCharacter_C, therefore ' Target ' must have a connection.
+[2020.05.02-20.08.26:597][563]LogBlueprint: Error: [Compiler Aggressive_AI] Variable node  Set KILLCOUNT  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2020.05.02-20.08.26:768][563]LogBlueprint: Warning: [Compiler Aggressive_AI] [0744.71] Compile of Aggressive_AI failed. 2 Fatal Issue(s) 0 Warning(s) [in 235 ms] (/Game/AI/Aggressive_AI.Aggressive_AI)
+[2020.05.02-20.08.48:711][180]BlueprintLog: New page: Compile Aggressive_AI
+[2020.05.02-20.08.49:429][237]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/Aggressive_AI" FILE="C:/Users/mosne/Desktop/game jam/Hybrid-Games---Untitled-cybersled-game/Example project/Content/AI/Aggressive_AI.uasset" SILENT=true
+[2020.05.02-20.08.49:488][237]LogSavePackage: Moving 'C:/Users/mosne/Desktop/game jam/Hybrid-Games---Untitled-cybersled-game/Example project/Saved/Aggressive_AIDC19885A47088DFDE2CE95A3A85ED454.tmp' to 'C:/Users/mosne/Desktop/game jam/Hybrid-Games---Untitled-cybersled-game/Example project/Content/AI/Aggressive_AI.uasset'
+[2020.05.02-20.08.49:488][237]LogFileManager: Warning: DeleteFile was unable to delete 'C:/Users/mosne/Desktop/game jam/Hybrid-Games---Untitled-cybersled-game/Example project/Content/AI/Aggressive_AI.uasset', retrying in .5s...
+[2020.05.02-20.08.49:990][237]LogFileManager: Error: Error deleting file 'C:/Users/mosne/Desktop/game jam/Hybrid-Games---Untitled-cybersled-game/Example project/Content/AI/Aggressive_AI.uasset'.
+[2020.05.02-20.08.49:990][237]LogSavePackage: Error: Error saving 'C:/Users/mosne/Desktop/game jam/Hybrid-Games---Untitled-cybersled-game/Example project/Content/AI/Aggressive_AI.uasset'
+[2020.05.02-20.08.53:593][237]LogSlate: Window 'Message' being destroyed
+[2020.05.02-20.08.53:600][237]EditorErrors: New page: Save Output
+[2020.05.02-20.08.53:600][237]EditorErrors: Warning: Error saving 'C:/Users/mosne/Desktop/game jam/Hybrid-Games---Untitled-cybersled-game/Example project/Content/AI/Aggressive_AI.uasset'
+[2020.05.02-20.08.54:686][365]LogSlate: Window 'Message Log' being destroyed
+[2020.05.02-20.08.54:689][365]LogSlate: Window 'Message Log' being destroyed
+[2020.05.02-20.08.56:587][592]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lennon/Enemy/ENEMY_AI" FILE="C:/Users/mosne/Desktop/game jam/Hybrid-Games---Untitled-cybersled-game/Example project/Content/Lennon/Enemy/ENEMY_AI.uasset" SILENT=true
+[2020.05.02-20.08.56:654][592]LogSavePackage: Moving 'C:/Users/mosne/Desktop/game jam/Hybrid-Games---Untitled-cybersled-game/Example project/Saved/ENEMY_AI14B0144D46B6F7B133E1A5A27F65FBA1.tmp' to 'C:/Users/mosne/Desktop/game jam/Hybrid-Games---Untitled-cybersled-game/Example project/Content/Lennon/Enemy/ENEMY_AI.uasset'
+[2020.05.02-20.09.07:980][908]LogSavePackage: Moving 'C:/Users/mosne/Desktop/game jam/Hybrid-Games---Untitled-cybersled-game/Example project/Saved/Arena4A7E0168421FA850FA7B858A071B0DA4.tmp' to 'C:/Users/mosne/Desktop/game jam/Hybrid-Games---Untitled-cybersled-game/Example project/Content/Prototype/Arena.umap'
+[2020.05.02-20.09.07:980][908]LogFileManager: Warning: DeleteFile was unable to delete 'C:/Users/mosne/Desktop/game jam/Hybrid-Games---Untitled-cybersled-game/Example project/Content/Prototype/Arena.umap', retrying in .5s...
+[2020.05.02-20.09.08:481][908]LogFileManager: Error: Error deleting file 'C:/Users/mosne/Desktop/game jam/Hybrid-Games---Untitled-cybersled-game/Example project/Content/Prototype/Arena.umap'.
+[2020.05.02-20.09.08:481][908]LogSavePackage: Error: Error saving 'C:/Users/mosne/Desktop/game jam/Hybrid-Games---Untitled-cybersled-game/Example project/Content/Prototype/Arena.umap'
+[2020.05.02-20.09.08:485][908]EditorErrors: New page: Save Output
+[2020.05.02-20.09.08:485][908]EditorErrors: Warning: Error saving 'C:/Users/mosne/Desktop/game jam/Hybrid-Games---Untitled-cybersled-game/Example project/Content/Prototype/Arena.umap'
+[2020.05.02-20.09.10:296][124]LogSlate: Window 'Message Log' being destroyed
+[2020.05.02-20.09.10:300][124]LogSlate: Window 'Message Log' being destroyed
+[2020.05.02-20.09.14:780][655]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/Aggressive_AI" FILE="C:/Users/mosne/Desktop/game jam/Hybrid-Games---Untitled-cybersled-game/Example project/Content/AI/Aggressive_AI.uasset" SILENT=true
+[2020.05.02-20.09.14:844][655]LogSavePackage: Moving 'C:/Users/mosne/Desktop/game jam/Hybrid-Games---Untitled-cybersled-game/Example project/Saved/Aggressive_AI245EA9F74512E8BD8BBCACAD64B1AB3A.tmp' to 'C:/Users/mosne/Desktop/game jam/Hybrid-Games---Untitled-cybersled-game/Example project/Content/AI/Aggressive_AI.uasset'
+[2020.05.02-20.09.14:844][655]LogFileManager: Warning: DeleteFile was unable to delete 'C:/Users/mosne/Desktop/game jam/Hybrid-Games---Untitled-cybersled-game/Example project/Content/AI/Aggressive_AI.uasset', retrying in .5s...
+[2020.05.02-20.09.15:344][655]LogFileManager: Error: Error deleting file 'C:/Users/mosne/Desktop/game jam/Hybrid-Games---Untitled-cybersled-game/Example project/Content/AI/Aggressive_AI.uasset'.
+[2020.05.02-20.09.15:344][655]LogSavePackage: Error: Error saving 'C:/Users/mosne/Desktop/game jam/Hybrid-Games---Untitled-cybersled-game/Example project/Content/AI/Aggressive_AI.uasset'
+[2020.05.02-20.09.16:786][655]LogSlate: Window 'Message' being destroyed
+[2020.05.02-20.09.16:792][655]EditorErrors: New page: Save Output
+[2020.05.02-20.09.16:792][655]EditorErrors: Warning: Error saving 'C:/Users/mosne/Desktop/game jam/Hybrid-Games---Untitled-cybersled-game/Example project/Content/AI/Aggressive_AI.uasset'
+[2020.05.02-20.09.18:089][808]LogSlate: Window 'Message Log' being destroyed
+[2020.05.02-20.09.18:093][808]LogSlate: Window 'Message Log' being destroyed
+[2020.05.02-20.09.22:207][298]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/Aggressive_AI" FILE="C:/Users/mosne/Desktop/game jam/Hybrid-Games---Untitled-cybersled-game/Example project/Content/AI/Aggressive_AI.uasset" SILENT=true
+[2020.05.02-20.09.22:273][298]LogSavePackage: Moving 'C:/Users/mosne/Desktop/game jam/Hybrid-Games---Untitled-cybersled-game/Example project/Saved/Aggressive_AICC96F3004464A78BC4F7ECA4ADCF7046.tmp' to 'C:/Users/mosne/Desktop/game jam/Hybrid-Games---Untitled-cybersled-game/Example project/Content/AI/Aggressive_AI.uasset'
+[2020.05.02-20.09.22:273][298]LogFileManager: Warning: DeleteFile was unable to delete 'C:/Users/mosne/Desktop/game jam/Hybrid-Games---Untitled-cybersled-game/Example project/Content/AI/Aggressive_AI.uasset', retrying in .5s...
+[2020.05.02-20.09.22:774][298]LogFileManager: Error: Error deleting file 'C:/Users/mosne/Desktop/game jam/Hybrid-Games---Untitled-cybersled-game/Example project/Content/AI/Aggressive_AI.uasset'.
+[2020.05.02-20.09.22:774][298]LogSavePackage: Error: Error saving 'C:/Users/mosne/Desktop/game jam/Hybrid-Games---Untitled-cybersled-game/Example project/Content/AI/Aggressive_AI.uasset'
+[2020.05.02-20.09.24:268][298]LogSlate: Window 'Message' being destroyed
+[2020.05.02-20.09.24:275][298]EditorErrors: New page: Save Output
+[2020.05.02-20.09.24:275][298]EditorErrors: Warning: Error saving 'C:/Users/mosne/Desktop/game jam/Hybrid-Games---Untitled-cybersled-game/Example project/Content/AI/Aggressive_AI.uasset'
+[2020.05.02-20.09.25:149][401]BlueprintLog: New page: Compile Aggressive_AI
+[2020.05.02-20.09.26:137][494]LogSlate: Window 'Message Log' being destroyed
+[2020.05.02-20.09.26:142][494]LogSlate: Window 'Message Log' being destroyed
+[2020.05.02-20.09.27:107][609]BlueprintLog: New page: Compile Aggressive_AI
+[2020.05.02-20.09.27:672][648]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/Aggressive_AI" FILE="C:/Users/mosne/Desktop/game jam/Hybrid-Games---Untitled-cybersled-game/Example project/Content/AI/Aggressive_AI.uasset" SILENT=true
+[2020.05.02-20.09.27:728][648]LogSavePackage: Moving 'C:/Users/mosne/Desktop/game jam/Hybrid-Games---Untitled-cybersled-game/Example project/Saved/Aggressive_AI04FA8A2D4A1E4E21819DDDA9768CD09B.tmp' to 'C:/Users/mosne/Desktop/game jam/Hybrid-Games---Untitled-cybersled-game/Example project/Content/AI/Aggressive_AI.uasset'
+[2020.05.02-20.09.27:728][648]LogFileManager: Warning: DeleteFile was unable to delete 'C:/Users/mosne/Desktop/game jam/Hybrid-Games---Untitled-cybersled-game/Example project/Content/AI/Aggressive_AI.uasset', retrying in .5s...
+[2020.05.02-20.09.28:229][648]LogFileManager: Error: Error deleting file 'C:/Users/mosne/Desktop/game jam/Hybrid-Games---Untitled-cybersled-game/Example project/Content/AI/Aggressive_AI.uasset'.
+[2020.05.02-20.09.28:229][648]LogSavePackage: Error: Error saving 'C:/Users/mosne/Desktop/game jam/Hybrid-Games---Untitled-cybersled-game/Example project/Content/AI/Aggressive_AI.uasset'
+[2020.05.02-20.09.29:310][648]LogSlate: Window 'Message' being destroyed
+[2020.05.02-20.09.29:317][648]EditorErrors: New page: Save Output
+[2020.05.02-20.09.29:317][648]EditorErrors: Warning: Error saving 'C:/Users/mosne/Desktop/game jam/Hybrid-Games---Untitled-cybersled-game/Example project/Content/AI/Aggressive_AI.uasset'
+[2020.05.02-20.09.30:897][829]LogSlate: Window 'Message Log' being destroyed
+[2020.05.02-20.09.30:900][829]LogSlate: Window 'Message Log' being destroyed
+[2020.05.02-20.09.58:643][433]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/Aggressive_AI" FILE="C:/Users/mosne/Desktop/game jam/Hybrid-Games---Untitled-cybersled-game/Example project/Content/AI/Aggressive_AI.uasset" SILENT=true
+[2020.05.02-20.09.58:708][433]LogSavePackage: Moving 'C:/Users/mosne/Desktop/game jam/Hybrid-Games---Untitled-cybersled-game/Example project/Saved/Aggressive_AI084CBE1E4DA655B4BAE0E0844AB98E3D.tmp' to 'C:/Users/mosne/Desktop/game jam/Hybrid-Games---Untitled-cybersled-game/Example project/Content/AI/Aggressive_AI.uasset'
+[2020.05.02-20.10.16:890][606]BlueprintLog: New page: Compile Aggressive_AI
+[2020.05.02-20.10.17:456][645]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/Aggressive_AI" FILE="C:/Users/mosne/Desktop/game jam/Hybrid-Games---Untitled-cybersled-game/Example project/Content/AI/Aggressive_AI.uasset" SILENT=true
+[2020.05.02-20.10.17:516][645]LogSavePackage: Moving 'C:/Users/mosne/Desktop/game jam/Hybrid-Games---Untitled-cybersled-game/Example project/Saved/Aggressive_AI3763E9F845759A7BF2A53FBCD25CC094.tmp' to 'C:/Users/mosne/Desktop/game jam/Hybrid-Games---Untitled-cybersled-game/Example project/Content/AI/Aggressive_AI.uasset'
+[2020.05.02-20.10.28:060][869]LogSavePackage: Moving 'C:/Users/mosne/Desktop/game jam/Hybrid-Games---Untitled-cybersled-game/Example project/Saved/ArenaD8798B444A1C968405105CA5C7C0B1DF.tmp' to 'C:/Users/mosne/Desktop/game jam/Hybrid-Games---Untitled-cybersled-game/Example project/Content/Prototype/Arena.umap'
+[2020.05.02-20.10.28:141][869]LogSavePackage: Moving 'C:/Users/mosne/Desktop/game jam/Hybrid-Games---Untitled-cybersled-game/Example project/Saved/Arena_BuiltData5745572F44EA594F8ED52CB14F271680.tmp' to 'C:/Users/mosne/Desktop/game jam/Hybrid-Games---Untitled-cybersled-game/Example project/Content/Prototype/Arena_BuiltData.uasset'
+[2020.05.02-20.10.43:157][666]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/PlayerCharacter.PlayerCharacter
+[2020.05.02-20.10.43:619][666]LogPropertyNode: Warning: Clamp Min (1000000000000000000) >= Clamp Max (1000000000000000000) for Ranged Numeric property /Game/PlayerCharacter.PlayerCharacter_C:MGAmmo
+[2020.05.02-20.10.43:619][666]LogPropertyNode: Warning: UI Min (1000000000000000000) >= UI Max (1000000000000000000) for Ranged Numeric property /Game/PlayerCharacter.PlayerCharacter_C:MGAmmo
+[2020.05.02-20.11.56:160][ 95]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: 'Engine/Tutorial/Installation/InstallingVisualStudioTutorial' is not a standard unreal filename or a long path name. Reason: Path should start with a '/'
+[2020.05.02-20.11.56:170][ 95]LogLinker: Warning: Can't find file 'Engine/Tutorial/Installation/InstallingVisualStudioTutorial'
+[2020.05.02-20.11.56:170][ 95]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: 'Engine/Tutorial/Installation/InstallingVisualStudioTutorial' is not a standard unreal filename or a long path name. Reason: Path should start with a '/'
+[2020.05.02-20.11.56:170][ 95]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: 'Engine/Tutorial/Installation/InstallingVisualStudioTutorial' is not a standard unreal filename or a long path name. Reason: Path should start with a '/'
+[2020.05.02-20.11.56:170][ 95]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: 'Engine/Tutorial/Installation/InstallingVisualStudioTutorial' is not a standard unreal filename or a long path name. Reason: Path should start with a '/'
+[2020.05.02-20.11.56:170][ 95]LogLinker: Warning: Can't find file 'Engine/Tutorial/Installation/InstallingVisualStudioTutorial'
+[2020.05.02-20.11.56:170][ 95]LogUObjectGlobals: Warning: Failed to find object 'Blueprint Engine/Tutorial/Installation/InstallingVisualStudioTutorial.InstallingVisualStudioTutorial'
+[2020.05.02-20.12.00:789][646]BlueprintLog: New page: Compile PlayerCharacter
+[2020.05.02-20.12.01:653][689]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerCharacter" FILE="C:/Users/mosne/Desktop/game jam/Hybrid-Games---Untitled-cybersled-game/Example project/Content/PlayerCharacter.uasset" SILENT=true
+[2020.05.02-20.12.01:816][689]LogSavePackage: Moving 'C:/Users/mosne/Desktop/game jam/Hybrid-Games---Untitled-cybersled-game/Example project/Saved/PlayerCharacter611F074E43D6951E3C847B8460EE4179.tmp' to 'C:/Users/mosne/Desktop/game jam/Hybrid-Games---Untitled-cybersled-game/Example project/Content/PlayerCharacter.uasset'
+[2020.05.02-20.12.20:406][620]LogTemp: Repeating last play command: Selected Viewport
+[2020.05.02-20.12.20:436][620]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Prototype/Arena.Arena:PersistentLevel' has LevelScriptBlueprint '/Game/Prototype/Arena.Arena:PersistentLevel.Arena' with GeneratedClass '/Game/Prototype/Arena.Arena_C' with ClassGeneratedBy '/Game/Prototype/Arena.Arena:PersistentLevel.Arena'
+[2020.05.02-20.12.20:436][620]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.05.02-20.12.20:436][620]PIE: New page: PIE session: Arena (2 May 2020 22:12:20)
+[2020.05.02-20.12.20:436][620]LogPlayLevel: Creating play world package: /Game/Prototype/UEDPIE_0_Arena
+[2020.05.02-20.12.20:443][620]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006764s)
+[2020.05.02-20.12.20:444][620]LogAIModule: Creating AISystem for world Arena
+[2020.05.02-20.12.20:444][620]LogPlayLevel: PIE: World Init took: (0.000533s)
+[2020.05.02-20.12.20:444][620]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Prototype/Arena.Arena to /Game/Prototype/UEDPIE_0_Arena.Arena (0.007425s)
+[2020.05.02-20.12.20:483][620]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2020.05.02-20.12.20:500][620]LogInit: FAudioDevice initialized.
+[2020.05.02-20.12.20:532][620]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.05.02-20.12.20:534][620]LogWorld: Bringing World /Game/Prototype/UEDPIE_0_Arena.Arena up for play (max tick rate 0) at 2020.05.02-21.12.20
+[2020.05.02-20.12.20:535][620]LogWorld: Bringing up level for play took: 0.001399
+[2020.05.02-20.12.20:564][620]PIE: Play in editor start time for /Game/Prototype/UEDPIE_0_Arena -0.28
+[2020.05.02-20.12.20:564][620]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Prototype/Arena.Arena:PersistentLevel' has LevelScriptBlueprint '/Game/Prototype/Arena.Arena:PersistentLevel.Arena' with GeneratedClass '/Game/Prototype/Arena.Arena_C' with ClassGeneratedBy '/Game/Prototype/Arena.Arena:PersistentLevel.Arena'
+[2020.05.02-20.13.14:324][577]LogBlueprintUserMessages: [Aggressive_AI_2] 1
+[2020.05.02-20.13.14:324][577]LogBlueprintUserMessages: [NewPawn_C_0] You have progresed to next level!
+[2020.05.02-20.13.14:332][578]LogNet: Browse: /Game/NextLevel
+[2020.05.02-20.13.14:332][578]LogLoad: LoadMap: /Game/NextLevel
+[2020.05.02-20.13.14:403][578]LogAIModule: Creating AISystem for world NextLevel
+[2020.05.02-20.13.14:403][578]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.05.02-20.13.14:408][578]LogWorld: Bringing World /Game/UEDPIE_0_NextLevel.NextLevel up for play (max tick rate 0) at 2020.05.02-21.13.14
+[2020.05.02-20.13.14:409][578]LogWorld: Bringing up level for play took: 0.005606
+[2020.05.02-20.13.14:422][578]LogLoad: Took 0.090072 seconds to LoadMap(/Game/NextLevel)
+[2020.05.02-20.13.25:878][269]LogBlueprintUserMessages: [ENEMY_AI3_8] 1
+[2020.05.02-20.13.25:878][269]LogBlueprintUserMessages: [NewPawn_C_0] You have progresed to next level!
+[2020.05.02-20.13.25:887][270]LogNet: Browse: /Game/NextLevel
+[2020.05.02-20.13.25:887][270]LogLoad: LoadMap: /Game/NextLevel
+[2020.05.02-20.13.25:939][270]LogAIModule: Creating AISystem for world NextLevel
+[2020.05.02-20.13.25:939][270]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.05.02-20.13.25:944][270]LogWorld: Bringing World /Game/UEDPIE_0_NextLevel.NextLevel up for play (max tick rate 0) at 2020.05.02-21.13.25
+[2020.05.02-20.13.25:945][270]LogWorld: Bringing up level for play took: 0.005048
+[2020.05.02-20.13.25:957][270]LogLoad: Took 0.069773 seconds to LoadMap(/Game/NextLevel)
+[2020.05.02-20.13.33:417][727]LogBlueprintUserMessages: [ENEMY_AI2_8] 1
+[2020.05.02-20.13.33:417][727]LogBlueprintUserMessages: [NewPawn_C_0] You have progresed to next level!
+[2020.05.02-20.13.33:424][728]LogNet: Browse: /Game/NextLevel
+[2020.05.02-20.13.33:425][728]LogLoad: LoadMap: /Game/NextLevel
+[2020.05.02-20.13.33:476][728]LogAIModule: Creating AISystem for world NextLevel
+[2020.05.02-20.13.33:476][728]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.05.02-20.13.33:481][728]LogWorld: Bringing World /Game/UEDPIE_0_NextLevel.NextLevel up for play (max tick rate 0) at 2020.05.02-21.13.33
+[2020.05.02-20.13.33:481][728]LogWorld: Bringing up level for play took: 0.005058
+[2020.05.02-20.13.33:494][728]LogLoad: Took 0.069749 seconds to LoadMap(/Game/NextLevel)
+[2020.05.02-20.13.38:769][ 47]LogBlueprintUserMessages: [ENEMY_AI2_8] 1
+[2020.05.02-20.13.38:769][ 47]LogBlueprintUserMessages: [NewPawn_C_0] You have progresed to next level!
+[2020.05.02-20.13.38:781][ 48]LogNet: Browse: /Game/NextLevel
+[2020.05.02-20.13.38:781][ 48]LogLoad: LoadMap: /Game/NextLevel
+[2020.05.02-20.13.38:832][ 48]LogAIModule: Creating AISystem for world NextLevel
+[2020.05.02-20.13.38:832][ 48]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.05.02-20.13.38:837][ 48]LogWorld: Bringing World /Game/UEDPIE_0_NextLevel.NextLevel up for play (max tick rate 0) at 2020.05.02-21.13.38
+[2020.05.02-20.13.38:838][ 48]LogWorld: Bringing up level for play took: 0.005529
+[2020.05.02-20.13.38:852][ 48]LogLoad: Took 0.071473 seconds to LoadMap(/Game/NextLevel)
+[2020.05.02-20.13.41:867][235]LogBlueprintUserMessages: [ENEMY_AI4_12] 1
+[2020.05.02-20.13.41:868][235]LogBlueprintUserMessages: [NewPawn_C_0] You have progresed to next level!
+[2020.05.02-20.13.41:877][236]LogNet: Browse: /Game/NextLevel
+[2020.05.02-20.13.41:877][236]LogLoad: LoadMap: /Game/NextLevel
+[2020.05.02-20.13.41:927][236]LogAIModule: Creating AISystem for world NextLevel
+[2020.05.02-20.13.41:927][236]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.05.02-20.13.41:932][236]LogWorld: Bringing World /Game/UEDPIE_0_NextLevel.NextLevel up for play (max tick rate 0) at 2020.05.02-21.13.41
+[2020.05.02-20.13.41:933][236]LogWorld: Bringing up level for play took: 0.005145
+[2020.05.02-20.13.41:946][236]LogLoad: Took 0.068769 seconds to LoadMap(/Game/NextLevel)
+[2020.05.02-20.13.47:910][603]LogBlueprintUserMessages: [ENEMY_AI5_2] 1
+[2020.05.02-20.13.47:910][603]LogBlueprintUserMessages: [NewPawn_C_0] You have progresed to next level!
+[2020.05.02-20.13.47:918][604]LogNet: Browse: /Game/NextLevel
+[2020.05.02-20.13.47:919][604]LogLoad: LoadMap: /Game/NextLevel
+[2020.05.02-20.13.47:969][604]LogAIModule: Creating AISystem for world NextLevel
+[2020.05.02-20.13.47:970][604]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.05.02-20.13.47:974][604]LogWorld: Bringing World /Game/UEDPIE_0_NextLevel.NextLevel up for play (max tick rate 0) at 2020.05.02-21.13.47
+[2020.05.02-20.13.47:975][604]LogWorld: Bringing up level for play took: 0.004974
+[2020.05.02-20.13.47:988][604]LogLoad: Took 0.069051 seconds to LoadMap(/Game/NextLevel)
+[2020.05.02-20.13.48:604][647]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Prototype/Arena.Arena:PersistentLevel' has LevelScriptBlueprint '/Game/Prototype/Arena.Arena:PersistentLevel.Arena' with GeneratedClass '/Game/Prototype/Arena.Arena_C' with ClassGeneratedBy '/Game/Prototype/Arena.Arena:PersistentLevel.Arena'
+[2020.05.02-20.13.48:605][647]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.02-20.13.48:635][647]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.05.02-20.13.48:635][647]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Prototype/Arena.Arena:PersistentLevel' has LevelScriptBlueprint '/Game/Prototype/Arena.Arena:PersistentLevel.Arena' with GeneratedClass '/Game/Prototype/Arena.Arena_C' with ClassGeneratedBy '/Game/Prototype/Arena.Arena:PersistentLevel.Arena'
+[2020.05.02-20.13.48:664][647]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.02-20.13.48:707][650]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2020.05.02-20.13.52:066][ 52]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.02-20.13.57:439][659]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.02-20.13.59:250][861]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.02-20.13.59:308][868]LogTemp: Repeating last play command: Selected Viewport
+[2020.05.02-20.13.59:331][868]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Prototype/Arena.Arena:PersistentLevel' has LevelScriptBlueprint '/Game/Prototype/Arena.Arena:PersistentLevel.Arena' with GeneratedClass '/Game/Prototype/Arena.Arena_C' with ClassGeneratedBy '/Game/Prototype/Arena.Arena:PersistentLevel.Arena'
+[2020.05.02-20.13.59:331][868]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.05.02-20.13.59:332][868]PIE: New page: PIE session: Arena (2 May 2020 22:13:59)
+[2020.05.02-20.13.59:332][868]LogPlayLevel: Creating play world package: /Game/Prototype/UEDPIE_0_Arena
+[2020.05.02-20.13.59:340][868]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008174s)
+[2020.05.02-20.13.59:341][868]LogAIModule: Creating AISystem for world Arena
+[2020.05.02-20.13.59:341][868]LogPlayLevel: PIE: World Init took: (0.001005s)
+[2020.05.02-20.13.59:341][868]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Prototype/Arena.Arena to /Game/Prototype/UEDPIE_0_Arena.Arena (0.009340s)
+[2020.05.02-20.13.59:382][868]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2020.05.02-20.13.59:398][868]LogInit: FAudioDevice initialized.
+[2020.05.02-20.13.59:430][868]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.05.02-20.13.59:431][868]LogWorld: Bringing World /Game/Prototype/UEDPIE_0_Arena.Arena up for play (max tick rate 0) at 2020.05.02-21.13.59
+[2020.05.02-20.13.59:432][868]LogWorld: Bringing up level for play took: 0.001306
+[2020.05.02-20.13.59:459][868]PIE: Play in editor start time for /Game/Prototype/UEDPIE_0_Arena 0.615
+[2020.05.02-20.13.59:459][868]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Prototype/Arena.Arena:PersistentLevel' has LevelScriptBlueprint '/Game/Prototype/Arena.Arena:PersistentLevel.Arena' with GeneratedClass '/Game/Prototype/Arena.Arena_C' with ClassGeneratedBy '/Game/Prototype/Arena.Arena:PersistentLevel.Arena'
+[2020.05.02-20.14.04:621][333]LogBlueprintUserMessages: [NewPawn_C_0] Boosting!
+[2020.05.02-20.14.05:396][408]LogBlueprintUserMessages: [NewPawn_C_0] Boosting!
+[2020.05.02-20.14.07:030][576]LogBlueprintUserMessages: [NewPawn_C_0] Boosting!
+[2020.05.02-20.14.07:343][608]LogBlueprintUserMessages: [NewPawn_C_0] Boosting!
+[2020.05.02-20.14.17:142][625]LogBlueprintUserMessages: [NewPawn_C_0] Boosting!
+[2020.05.02-20.14.17:244][634]LogBlueprintUserMessages: [NewPawn_C_0] Boosting!
+[2020.05.02-20.14.24:655][367]LogBlueprintUserMessages: [NewPawn_C_0] Boosting!
+[2020.05.02-20.14.24:751][377]LogBlueprintUserMessages: [NewPawn_C_0] Boosting!
+[2020.05.02-20.14.29:141][818]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Prototype/Arena.Arena:PersistentLevel' has LevelScriptBlueprint '/Game/Prototype/Arena.Arena:PersistentLevel.Arena' with GeneratedClass '/Game/Prototype/Arena.Arena_C' with ClassGeneratedBy '/Game/Prototype/Arena.Arena:PersistentLevel.Arena'
+[2020.05.02-20.14.29:142][818]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.02-20.14.29:180][818]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.05.02-20.14.29:181][818]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Prototype/Arena.Arena:PersistentLevel' has LevelScriptBlueprint '/Game/Prototype/Arena.Arena:PersistentLevel.Arena' with GeneratedClass '/Game/Prototype/Arena.Arena_C' with ClassGeneratedBy '/Game/Prototype/Arena.Arena:PersistentLevel.Arena'
+[2020.05.02-20.14.29:253][818]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.02-20.14.29:273][819]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2020.05.02-20.14.30:151][923]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.02-20.14.34:855][478]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: 'Engine/Tutorial/Installation/InstallingVisualStudioTutorial' is not a standard unreal filename or a long path name. Reason: Path should start with a '/'
+[2020.05.02-20.14.34:856][478]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: 'Engine/Tutorial/Installation/InstallingVisualStudioTutorial' is not a standard unreal filename or a long path name. Reason: Path should start with a '/'
+[2020.05.02-20.14.38:754][944]BlueprintLog: New page: Compile PlayerCharacter
+[2020.05.02-20.14.39:395][960]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerCharacter" FILE="C:/Users/mosne/Desktop/game jam/Hybrid-Games---Untitled-cybersled-game/Example project/Content/PlayerCharacter.uasset" SILENT=true
+[2020.05.02-20.14.39:553][960]LogSavePackage: Moving 'C:/Users/mosne/Desktop/game jam/Hybrid-Games---Untitled-cybersled-game/Example project/Saved/PlayerCharacter8D8D2DFA46C6C10F2452D788BBABE809.tmp' to 'C:/Users/mosne/Desktop/game jam/Hybrid-Games---Untitled-cybersled-game/Example project/Content/PlayerCharacter.uasset'
+[2020.05.02-20.14.41:112][102]LogSavePackage: Moving 'C:/Users/mosne/Desktop/game jam/Hybrid-Games---Untitled-cybersled-game/Example project/Saved/ArenaC41F2F4E48741D2AAC6C399B4E333FA9.tmp' to 'C:/Users/mosne/Desktop/game jam/Hybrid-Games---Untitled-cybersled-game/Example project/Content/Prototype/Arena.umap'
+[2020.05.02-20.14.41:193][102]LogSavePackage: Moving 'C:/Users/mosne/Desktop/game jam/Hybrid-Games---Untitled-cybersled-game/Example project/Saved/Arena_BuiltDataE8435D0E46950AB9B365BB852DDFCB62.tmp' to 'C:/Users/mosne/Desktop/game jam/Hybrid-Games---Untitled-cybersled-game/Example project/Content/Prototype/Arena_BuiltData.uasset'
+[2020.05.02-20.14.41:838][178]LogTemp: Repeating last play command: Selected Viewport
+[2020.05.02-20.14.41:862][178]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Prototype/Arena.Arena:PersistentLevel' has LevelScriptBlueprint '/Game/Prototype/Arena.Arena:PersistentLevel.Arena' with GeneratedClass '/Game/Prototype/Arena.Arena_C' with ClassGeneratedBy '/Game/Prototype/Arena.Arena:PersistentLevel.Arena'
+[2020.05.02-20.14.41:862][178]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.05.02-20.14.41:862][178]PIE: New page: PIE session: Arena (2 May 2020 22:14:41)
+[2020.05.02-20.14.41:862][178]LogPlayLevel: Creating play world package: /Game/Prototype/UEDPIE_0_Arena
+[2020.05.02-20.14.41:870][178]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007969s)
+[2020.05.02-20.14.41:871][178]LogAIModule: Creating AISystem for world Arena
+[2020.05.02-20.14.41:871][178]LogPlayLevel: PIE: World Init took: (0.000532s)
+[2020.05.02-20.14.41:871][178]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Prototype/Arena.Arena to /Game/Prototype/UEDPIE_0_Arena.Arena (0.008625s)
+[2020.05.02-20.14.41:908][178]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2020.05.02-20.14.41:924][178]LogInit: FAudioDevice initialized.
+[2020.05.02-20.14.41:966][178]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.05.02-20.14.41:971][178]LogWorld: Bringing World /Game/Prototype/UEDPIE_0_Arena.Arena up for play (max tick rate 0) at 2020.05.02-21.14.41
+[2020.05.02-20.14.41:972][178]LogWorld: Bringing up level for play took: 0.003631
+[2020.05.02-20.14.42:001][178]PIE: Play in editor start time for /Game/Prototype/UEDPIE_0_Arena -0.842
+[2020.05.02-20.14.42:001][178]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Prototype/Arena.Arena:PersistentLevel' has LevelScriptBlueprint '/Game/Prototype/Arena.Arena:PersistentLevel.Arena' with GeneratedClass '/Game/Prototype/Arena.Arena_C' with ClassGeneratedBy '/Game/Prototype/Arena.Arena:PersistentLevel.Arena'
+[2020.05.02-20.14.46:223][545]LogBlueprintUserMessages: [NewPawn_C_0] Boosting!
+[2020.05.02-20.14.47:143][633]LogBlueprintUserMessages: [NewPawn_C_0] Boosting!
+[2020.05.02-20.14.47:208][639]LogBlueprintUserMessages: [NewPawn_C_0] Boosting!
+[2020.05.02-20.14.53:944][322]LogBlueprintUserMessages: [NewPawn_C_0] Boosting!
+[2020.05.02-20.14.54:052][332]LogBlueprintUserMessages: [NewPawn_C_0] Boosting!
+[2020.05.02-20.15.06:115][404]LogBlueprintUserMessages: [Aggressive_AI_2] 1
+[2020.05.02-20.15.06:115][404]LogBlueprintUserMessages: [NewPawn_C_0] You have progresed to next level!
+[2020.05.02-20.15.06:122][405]LogNet: Browse: /Game/NextLevel
+[2020.05.02-20.15.06:123][405]LogLoad: LoadMap: /Game/NextLevel
+[2020.05.02-20.15.06:192][405]LogAIModule: Creating AISystem for world NextLevel
+[2020.05.02-20.15.06:193][405]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.05.02-20.15.06:198][405]LogWorld: Bringing World /Game/UEDPIE_0_NextLevel.NextLevel up for play (max tick rate 0) at 2020.05.02-21.15.06
+[2020.05.02-20.15.06:198][405]LogWorld: Bringing up level for play took: 0.005165
+[2020.05.02-20.15.06:212][405]LogLoad: Took 0.090245 seconds to LoadMap(/Game/NextLevel)
+[2020.05.02-20.15.08:829][574]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Prototype/Arena.Arena:PersistentLevel' has LevelScriptBlueprint '/Game/Prototype/Arena.Arena:PersistentLevel.Arena' with GeneratedClass '/Game/Prototype/Arena.Arena_C' with ClassGeneratedBy '/Game/Prototype/Arena.Arena:PersistentLevel.Arena'
+[2020.05.02-20.15.08:829][574]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.02-20.15.08:865][574]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.05.02-20.15.08:865][574]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Prototype/Arena.Arena:PersistentLevel' has LevelScriptBlueprint '/Game/Prototype/Arena.Arena:PersistentLevel.Arena' with GeneratedClass '/Game/Prototype/Arena.Arena_C' with ClassGeneratedBy '/Game/Prototype/Arena.Arena:PersistentLevel.Arena'
+[2020.05.02-20.15.08:938][574]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.02-20.15.08:959][575]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2020.05.02-20.15.09:883][685]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.02-20.15.18:926][740]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.02-20.15.19:018][751]LogTemp: Repeating last play command: Selected Viewport
+[2020.05.02-20.15.19:042][751]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Prototype/Arena.Arena:PersistentLevel' has LevelScriptBlueprint '/Game/Prototype/Arena.Arena:PersistentLevel.Arena' with GeneratedClass '/Game/Prototype/Arena.Arena_C' with ClassGeneratedBy '/Game/Prototype/Arena.Arena:PersistentLevel.Arena'
+[2020.05.02-20.15.19:042][751]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.05.02-20.15.19:042][751]PIE: New page: PIE session: Arena (2 May 2020 22:15:19)
+[2020.05.02-20.15.19:042][751]LogPlayLevel: Creating play world package: /Game/Prototype/UEDPIE_0_Arena
+[2020.05.02-20.15.19:049][751]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007049s)
+[2020.05.02-20.15.19:050][751]LogAIModule: Creating AISystem for world Arena
+[2020.05.02-20.15.19:050][751]LogPlayLevel: PIE: World Init took: (0.000546s)
+[2020.05.02-20.15.19:050][751]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Prototype/Arena.Arena to /Game/Prototype/UEDPIE_0_Arena.Arena (0.007715s)
+[2020.05.02-20.15.19:091][751]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2020.05.02-20.15.19:107][751]LogInit: FAudioDevice initialized.
+[2020.05.02-20.15.19:141][751]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.05.02-20.15.19:142][751]LogWorld: Bringing World /Game/Prototype/UEDPIE_0_Arena.Arena up for play (max tick rate 0) at 2020.05.02-21.15.19
+[2020.05.02-20.15.19:143][751]LogWorld: Bringing up level for play took: 0.001342
+[2020.05.02-20.15.19:171][751]PIE: Play in editor start time for /Game/Prototype/UEDPIE_0_Arena 0.327
+[2020.05.02-20.15.19:171][751]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Prototype/Arena.Arena:PersistentLevel' has LevelScriptBlueprint '/Game/Prototype/Arena.Arena:PersistentLevel.Arena' with GeneratedClass '/Game/Prototype/Arena.Arena_C' with ClassGeneratedBy '/Game/Prototype/Arena.Arena:PersistentLevel.Arena'
+[2020.05.02-20.15.28:295][605]LogBlueprintUserMessages: [NewPawn_C_0] Boosting!
+[2020.05.02-20.15.31:952][967]LogBlueprintUserMessages: [Aggressive_AI_2] 1
+[2020.05.02-20.15.31:952][967]LogBlueprintUserMessages: [NewPawn_C_0] You have progresed to next level!
+[2020.05.02-20.15.31:959][968]LogNet: Browse: /Game/NextLevel
+[2020.05.02-20.15.31:960][968]LogLoad: LoadMap: /Game/NextLevel
+[2020.05.02-20.15.32:011][968]LogAIModule: Creating AISystem for world NextLevel
+[2020.05.02-20.15.32:012][968]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.05.02-20.15.32:017][968]LogWorld: Bringing World /Game/UEDPIE_0_NextLevel.NextLevel up for play (max tick rate 0) at 2020.05.02-21.15.32
+[2020.05.02-20.15.32:018][968]LogWorld: Bringing up level for play took: 0.005395
+[2020.05.02-20.15.32:030][968]LogLoad: Took 0.070303 seconds to LoadMap(/Game/NextLevel)
+[2020.05.02-20.15.33:203][ 47]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Prototype/Arena.Arena:PersistentLevel' has LevelScriptBlueprint '/Game/Prototype/Arena.Arena:PersistentLevel.Arena' with GeneratedClass '/Game/Prototype/Arena.Arena_C' with ClassGeneratedBy '/Game/Prototype/Arena.Arena:PersistentLevel.Arena'
+[2020.05.02-20.15.33:203][ 47]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.02-20.15.33:235][ 47]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.05.02-20.15.33:235][ 47]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Prototype/Arena.Arena:PersistentLevel' has LevelScriptBlueprint '/Game/Prototype/Arena.Arena:PersistentLevel.Arena' with GeneratedClass '/Game/Prototype/Arena.Arena_C' with ClassGeneratedBy '/Game/Prototype/Arena.Arena:PersistentLevel.Arena'
+[2020.05.02-20.15.33:263][ 47]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.02-20.15.33:294][ 49]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2020.05.02-20.15.35:804][350]LogEditorViewport: Clicking on Actor (LMB): Shield_C (Shield)
+[2020.05.02-20.15.36:793][465]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.02-20.15.36:947][483]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Lennon/Collectibles/Shield.Shield
+[2020.05.02-20.16.11:890][ 95]BlueprintLog: New page: Compile Shield
+[2020.05.02-20.16.12:509][138]LogSavePackage: Moving 'C:/Users/mosne/Desktop/game jam/Hybrid-Games---Untitled-cybersled-game/Example project/Saved/Shield79163DE14FE4E96FEDFE0EA2CE44F59F.tmp' to 'C:/Users/mosne/Desktop/game jam/Hybrid-Games---Untitled-cybersled-game/Example project/Content/Lennon/Collectibles/Shield.uasset'
+[2020.05.02-20.16.14:357][351]LogSlate: Window 'Shield' being destroyed
+[2020.05.02-20.16.16:835][620]LogSavePackage: Moving 'C:/Users/mosne/Desktop/game jam/Hybrid-Games---Untitled-cybersled-game/Example project/Saved/ArenaAA2B348C4E353759F17083AF9DB794EB.tmp' to 'C:/Users/mosne/Desktop/game jam/Hybrid-Games---Untitled-cybersled-game/Example project/Content/Prototype/Arena.umap'
+[2020.05.02-20.16.16:913][620]LogSavePackage: Moving 'C:/Users/mosne/Desktop/game jam/Hybrid-Games---Untitled-cybersled-game/Example project/Saved/Arena_BuiltData094F3ED143461C1278FB8699A87D2D3C.tmp' to 'C:/Users/mosne/Desktop/game jam/Hybrid-Games---Untitled-cybersled-game/Example project/Content/Prototype/Arena_BuiltData.uasset'
+[2020.05.02-20.16.17:942][741]LogTemp: Repeating last play command: Selected Viewport
+[2020.05.02-20.16.17:969][741]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Prototype/Arena.Arena:PersistentLevel' has LevelScriptBlueprint '/Game/Prototype/Arena.Arena:PersistentLevel.Arena' with GeneratedClass '/Game/Prototype/Arena.Arena_C' with ClassGeneratedBy '/Game/Prototype/Arena.Arena:PersistentLevel.Arena'
+[2020.05.02-20.16.17:969][741]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.05.02-20.16.17:969][741]PIE: New page: PIE session: Arena (2 May 2020 22:16:17)
+[2020.05.02-20.16.17:969][741]LogPlayLevel: Creating play world package: /Game/Prototype/UEDPIE_0_Arena
+[2020.05.02-20.16.17:977][741]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007504s)
+[2020.05.02-20.16.17:977][741]LogAIModule: Creating AISystem for world Arena
+[2020.05.02-20.16.17:977][741]LogPlayLevel: PIE: World Init took: (0.000519s)
+[2020.05.02-20.16.17:977][741]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Prototype/Arena.Arena to /Game/Prototype/UEDPIE_0_Arena.Arena (0.008144s)
+[2020.05.02-20.16.18:018][741]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2020.05.02-20.16.18:034][741]LogInit: FAudioDevice initialized.
+[2020.05.02-20.16.18:069][741]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.05.02-20.16.18:070][741]LogWorld: Bringing World /Game/Prototype/UEDPIE_0_Arena.Arena up for play (max tick rate 0) at 2020.05.02-21.16.18
+[2020.05.02-20.16.18:071][741]LogWorld: Bringing up level for play took: 0.001286
+[2020.05.02-20.16.18:098][741]PIE: Play in editor start time for /Game/Prototype/UEDPIE_0_Arena -0.746
+[2020.05.02-20.16.18:098][741]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Prototype/Arena.Arena:PersistentLevel' has LevelScriptBlueprint '/Game/Prototype/Arena.Arena:PersistentLevel.Arena' with GeneratedClass '/Game/Prototype/Arena.Arena_C' with ClassGeneratedBy '/Game/Prototype/Arena.Arena:PersistentLevel.Arena'
+[2020.05.02-20.16.27:235][609]LogBlueprintUserMessages: [NewPawn_C_0] Boosting!
+[2020.05.02-20.16.27:449][631]LogBlueprintUserMessages: [NewPawn_C_0] Boosting!
+[2020.05.02-20.16.28:808][768]LogBlueprintUserMessages: [NewPawn_C_0] Boosting!
+[2020.05.02-20.16.28:907][777]LogBlueprintUserMessages: [NewPawn_C_0] Boosting!
+[2020.05.02-20.16.30:784][958]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Prototype/Arena.Arena:PersistentLevel' has LevelScriptBlueprint '/Game/Prototype/Arena.Arena:PersistentLevel.Arena' with GeneratedClass '/Game/Prototype/Arena.Arena_C' with ClassGeneratedBy '/Game/Prototype/Arena.Arena:PersistentLevel.Arena'
+[2020.05.02-20.16.30:784][958]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.02-20.16.30:824][958]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.05.02-20.16.30:825][958]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Prototype/Arena.Arena:PersistentLevel' has LevelScriptBlueprint '/Game/Prototype/Arena.Arena:PersistentLevel.Arena' with GeneratedClass '/Game/Prototype/Arena.Arena_C' with ClassGeneratedBy '/Game/Prototype/Arena.Arena:PersistentLevel.Arena'
+[2020.05.02-20.16.30:893][958]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.02-20.16.30:912][959]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2020.05.02-20.16.31:588][ 39]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.02-20.16.36:209][591]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Lennon/Collectibles/SpeedBoost.SpeedBoost
+[2020.05.02-20.17.02:168][486]BlueprintLog: New page: Compile SpeedBoost
+[2020.05.02-20.17.02:175][486]LogBlueprint: Error: [Compiler SpeedBoost] This blueprint (self) is not a PlayerCharacter_C, therefore ' Target ' must have a connection.
+[2020.05.02-20.17.02:354][486]LogBlueprint: Warning: [Compiler SpeedBoost] [1260.29] Compile of SpeedBoost failed. 1 Fatal Issue(s) 0 Warning(s) [in 186 ms] (/Game/Lennon/Collectibles/SpeedBoost.SpeedBoost)
+[2020.05.02-20.17.02:597][504]LogSavePackage: Moving 'C:/Users/mosne/Desktop/game jam/Hybrid-Games---Untitled-cybersled-game/Example project/Saved/SpeedBoost6385895F4C505405BC51109ECC9D06C9.tmp' to 'C:/Users/mosne/Desktop/game jam/Hybrid-Games---Untitled-cybersled-game/Example project/Content/Lennon/Collectibles/SpeedBoost.uasset'
+[2020.05.02-20.17.09:159][285]BlueprintLog: New page: Compile SpeedBoost
+[2020.05.02-20.17.09:736][325]LogSavePackage: Moving 'C:/Users/mosne/Desktop/game jam/Hybrid-Games---Untitled-cybersled-game/Example project/Saved/SpeedBoost9BEFBC844361CF6302CB12A17B534673.tmp' to 'C:/Users/mosne/Desktop/game jam/Hybrid-Games---Untitled-cybersled-game/Example project/Content/Lennon/Collectibles/SpeedBoost.uasset'
+[2020.05.02-20.17.16:093][ 62]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Lennon/BlueCharacter/BlueCharacter.BlueCharacter
+[2020.05.02-20.17.16:558][ 63]LogPropertyNode: Warning: Clamp Min (1000000000000000000) >= Clamp Max (1000000000000000000) for Ranged Numeric property /Game/Lennon/BlueCharacter/BlueCharacter.BlueCharacter_C:MGAmmo
+[2020.05.02-20.17.16:558][ 63]LogPropertyNode: Warning: UI Min (1000000000000000000) >= UI Max (1000000000000000000) for Ranged Numeric property /Game/Lennon/BlueCharacter/BlueCharacter.BlueCharacter_C:MGAmmo
+[2020.05.02-20.17.25:277][ 12]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.02-20.17.30:563][602]LogTexture: Display: Building textures: Stat_Bar (BGRA8, 5590X680)
+[2020.05.02-20.17.30:585][602]LogAIModule: Creating AISystem for world MainMenu
+[2020.05.02-20.17.30:589][602]LogAssetEditorManager: Opening Asset editor for World /Game/MainMenu.MainMenu
+[2020.05.02-20.17.32:282][602]LogSlate: Window 'Save Content' being destroyed
+[2020.05.02-20.17.32:511][602]LogSavePackage: Moving 'C:/Users/mosne/Desktop/game jam/Hybrid-Games---Untitled-cybersled-game/Example project/Saved/ArenaAE32805E44488D3CEF565BB7F5D1E7D5.tmp' to 'C:/Users/mosne/Desktop/game jam/Hybrid-Games---Untitled-cybersled-game/Example project/Content/Prototype/Arena.umap'
+[2020.05.02-20.17.32:545][602]LogFileHelpers: Saving map 'Arena' took 0.257
+[2020.05.02-20.17.32:568][602]Cmd: MAP LOAD FILE="C:/Users/mosne/Desktop/game jam/Hybrid-Games---Untitled-cybersled-game/Example project/Content/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.05.02-20.17.32:568][602]LightingResults: New page: Lighting Build
+[2020.05.02-20.17.32:569][602]LoadErrors: New page: Loading map: MainMenu.umap
+[2020.05.02-20.17.32:570][602]MapCheck: New page: Map Check
+[2020.05.02-20.17.32:570][602]LightingResults: New page: Lighting Build
+[2020.05.02-20.17.32:603][602]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.05.02-20.17.32:667][602]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.05.02-20.17.32:667][602]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.148ms to complete.
+[2020.05.02-20.17.32:667][602]LogFileHelpers: Loading map 'MainMenu' took 0.122
+[2020.05.02-20.17.32:748][602]LogAIModule: Creating AISystem for world Arena
+[2020.05.02-20.17.43:804][924]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.05.02-20.17.48:812][511]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.05.02-20.18.00:852][938]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.02-20.18.04:898][414]LogAssetEditorManager: Opening Asset editor for World /Game/Prototype/Arena.Arena
+[2020.05.02-20.18.04:929][414]Cmd: MAP LOAD FILE="C:/Users/mosne/Desktop/game jam/Hybrid-Games---Untitled-cybersled-game/Example project/Content/Prototype/Arena.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.05.02-20.18.04:929][414]LightingResults: New page: Lighting Build
+[2020.05.02-20.18.04:930][414]LoadErrors: New page: Loading map: Arena.umap
+[2020.05.02-20.18.04:930][414]MapCheck: New page: Map Check
+[2020.05.02-20.18.04:930][414]LightingResults: New page: Lighting Build
+[2020.05.02-20.18.04:966][414]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.05.02-20.18.05:046][414]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.05.02-20.18.05:046][414]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.135ms to complete.
+[2020.05.02-20.18.05:047][414]LogFileHelpers: Loading map 'Arena' took 0.118
+[2020.05.02-20.18.10:540][948]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.02-20.18.10:599][955]LogTemp: Repeating last play command: Selected Viewport
+[2020.05.02-20.18.10:641][955]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Prototype/Arena.Arena:PersistentLevel' has LevelScriptBlueprint '/Game/Prototype/Arena.Arena:PersistentLevel.Arena' with GeneratedClass '/Game/Prototype/Arena.Arena_C' with ClassGeneratedBy '/Game/Prototype/Arena.Arena:PersistentLevel.Arena'
+[2020.05.02-20.18.10:641][955]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.05.02-20.18.10:641][955]PIE: New page: PIE session: Arena (2 May 2020 22:18:10)
+[2020.05.02-20.18.10:642][955]LogPlayLevel: Creating play world package: /Game/Prototype/UEDPIE_0_Arena
+[2020.05.02-20.18.10:650][955]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008398s)
+[2020.05.02-20.18.10:651][955]LogAIModule: Creating AISystem for world Arena
+[2020.05.02-20.18.10:651][955]LogPlayLevel: PIE: World Init took: (0.000589s)
+[2020.05.02-20.18.10:651][955]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Prototype/Arena.Arena to /Game/Prototype/UEDPIE_0_Arena.Arena (0.009111s)
+[2020.05.02-20.18.10:693][955]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2020.05.02-20.18.10:710][955]LogInit: FAudioDevice initialized.
+[2020.05.02-20.18.10:743][955]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.05.02-20.18.10:746][955]LogWorld: Bringing World /Game/Prototype/UEDPIE_0_Arena.Arena up for play (max tick rate 0) at 2020.05.02-21.18.10
+[2020.05.02-20.18.10:747][955]LogWorld: Bringing up level for play took: 0.002632
+[2020.05.02-20.18.10:779][955]PIE: Play in editor start time for /Game/Prototype/UEDPIE_0_Arena -0.065
+[2020.05.02-20.18.10:779][955]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Prototype/Arena.Arena:PersistentLevel' has LevelScriptBlueprint '/Game/Prototype/Arena.Arena:PersistentLevel.Arena' with GeneratedClass '/Game/Prototype/Arena.Arena_C' with ClassGeneratedBy '/Game/Prototype/Arena.Arena:PersistentLevel.Arena'
+[2020.05.02-20.18.16:431][442]LogBlueprintUserMessages: [NewPawn_C_0] Boosting!
+[2020.05.02-20.18.20:520][754]LogBlueprintUserMessages: [Aggressive_AI_2] 1
+[2020.05.02-20.18.20:521][754]LogBlueprintUserMessages: [NewPawn_C_0] You have progresed to next level!
+[2020.05.02-20.18.20:529][755]LogNet: Browse: /Game/NextLevel
+[2020.05.02-20.18.20:529][755]LogLoad: LoadMap: /Game/NextLevel
+[2020.05.02-20.18.20:584][755]LogAIModule: Creating AISystem for world NextLevel
+[2020.05.02-20.18.20:585][755]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.05.02-20.18.20:589][755]LogWorld: Bringing World /Game/UEDPIE_0_NextLevel.NextLevel up for play (max tick rate 0) at 2020.05.02-21.18.20
+[2020.05.02-20.18.20:590][755]LogWorld: Bringing up level for play took: 0.005178
+[2020.05.02-20.18.20:604][755]LogLoad: Took 0.075148 seconds to LoadMap(/Game/NextLevel)
+[2020.05.02-20.18.23:295][927]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Prototype/Arena.Arena:PersistentLevel' has LevelScriptBlueprint '/Game/Prototype/Arena.Arena:PersistentLevel.Arena' with GeneratedClass '/Game/Prototype/Arena.Arena_C' with ClassGeneratedBy '/Game/Prototype/Arena.Arena:PersistentLevel.Arena'
+[2020.05.02-20.18.23:296][927]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.02-20.18.23:331][927]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.05.02-20.18.23:331][927]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Prototype/Arena.Arena:PersistentLevel' has LevelScriptBlueprint '/Game/Prototype/Arena.Arena:PersistentLevel.Arena' with GeneratedClass '/Game/Prototype/Arena.Arena_C' with ClassGeneratedBy '/Game/Prototype/Arena.Arena:PersistentLevel.Arena'
+[2020.05.02-20.18.23:406][927]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.02-20.18.23:427][928]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2020.05.02-20.18.26:167][256]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.02-20.18.26:429][266]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.05.02-20.18.26:516][266]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.05.02-20.18.26:564][266]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.05.02-20.18.26:629][266]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.05.02-20.18.26:677][266]LogSlate: Window 'MyProject2 - Unreal Editor' being destroyed
+[2020.05.02-20.18.26:856][267]Cmd: QUIT_EDITOR
+[2020.05.02-20.18.27:604][267]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.05.02-20.18.27:614][267]LogExit: Preparing to exit.
+[2020.05.02-20.18.28:254][267]LogExit: Editor shut down
+[2020.05.02-20.18.28:254][267]LogExit: Transaction tracking system shut down
+[2020.05.02-20.18.28:524][267]LogExit: Object subsystem successfully closed.
+[2020.05.02-20.18.28:544][267]LogShaderCompilers: Display: Shaders left to compile 0
+[2020.05.02-20.18.28:547][267]LogD3D11RHI: Shutdown
+[2020.05.02-20.18.28:547][267]LogD3D11RHI: CleanupD3DDevice
+[2020.05.02-20.18.28:549][267]LogD3D11RHI: ~FD3D11DynamicRHI
+[2020.05.02-20.18.28:609][267]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (642)
+[2020.05.02-20.18.28:610][267]LogModuleManager: Shutting down and abandoning module Voice (640)
+[2020.05.02-20.18.28:615][267]LogModuleManager: Shutting down and abandoning module BlueprintGraph (638)
+[2020.05.02-20.18.28:615][267]LogModuleManager: Shutting down and abandoning module StaticMeshEditor (636)
+[2020.05.02-20.18.28:615][267]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (634)
+[2020.05.02-20.18.28:615][267]LogModuleManager: Shutting down and abandoning module SceneOutliner (632)
+[2020.05.02-20.18.28:615][267]LogModuleManager: Shutting down and abandoning module AddContentDialog (630)
+[2020.05.02-20.18.28:616][267]LogModuleManager: Shutting down and abandoning module WidgetCarousel (629)
+[2020.05.02-20.18.28:616][267]LogModuleManager: Shutting down and abandoning module EditorWidgets (626)
+[2020.05.02-20.18.28:616][267]LogModuleManager: Shutting down and abandoning module CollectionManager (624)
+[2020.05.02-20.18.28:616][267]LogModuleManager: Shutting down and abandoning module StatsViewer (622)
+[2020.05.02-20.18.28:616][267]LogModuleManager: Shutting down and abandoning module FoliageEdit (620)
+[2020.05.02-20.18.28:616][267]LogModuleManager: Shutting down and abandoning module LandscapeEditor (618)
+[2020.05.02-20.18.28:616][267]LogModuleManager: Shutting down and abandoning module MeshPaintMode (616)
+[2020.05.02-20.18.28:616][267]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (614)
+[2020.05.02-20.18.28:616][267]LogModuleManager: Shutting down and abandoning module ActorPickerMode (612)
+[2020.05.02-20.18.28:616][267]LogModuleManager: Shutting down and abandoning module GeometryMode (610)
+[2020.05.02-20.18.28:616][267]LogModuleManager: Shutting down and abandoning module TextureAlignMode (608)
+[2020.05.02-20.18.28:616][267]LogModuleManager: Shutting down and abandoning module BspMode (606)
+[2020.05.02-20.18.28:616][267]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (604)
+[2020.05.02-20.18.28:616][267]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (602)
+[2020.05.02-20.18.28:616][267]LogModuleManager: Shutting down and abandoning module AutomationWorker (600)
+[2020.05.02-20.18.28:616][267]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (598)
+[2020.05.02-20.18.28:616][267]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (596)
+[2020.05.02-20.18.28:616][267]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (594)
+[2020.05.02-20.18.28:616][267]LogModuleManager: Shutting down and abandoning module PlacementMode (593)
+[2020.05.02-20.18.28:616][267]LogModuleManager: Shutting down and abandoning module MaterialEditor (592)
+[2020.05.02-20.18.28:616][267]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (588)
+[2020.05.02-20.18.28:616][267]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (586)
+[2020.05.02-20.18.28:616][267]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (584)
+[2020.05.02-20.18.28:616][267]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (582)
+[2020.05.02-20.18.28:616][267]LogModuleManager: Shutting down and abandoning module WebMMedia (580)
+[2020.05.02-20.18.28:616][267]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (578)
+[2020.05.02-20.18.28:616][267]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (576)
+[2020.05.02-20.18.28:617][267]LogModuleManager: Shutting down and abandoning module SequenceRecorder (575)
+[2020.05.02-20.18.28:617][267]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (572)
+[2020.05.02-20.18.28:617][267]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (570)
+[2020.05.02-20.18.28:617][267]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (568)
+[2020.05.02-20.18.28:617][267]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (566)
+[2020.05.02-20.18.28:617][267]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (564)
+[2020.05.02-20.18.28:617][267]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (562)
+[2020.05.02-20.18.28:617][267]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (560)
+[2020.05.02-20.18.28:617][267]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (558)
+[2020.05.02-20.18.28:617][267]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (556)
+[2020.05.02-20.18.28:617][267]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (554)
+[2020.05.02-20.18.28:617][267]LogModuleManager: Shutting down and abandoning module CharacterAI (552)
+[2020.05.02-20.18.28:617][267]LogModuleManager: Shutting down and abandoning module SmartSnapping (550)
+[2020.05.02-20.18.28:617][267]LogModuleManager: Shutting down and abandoning module SessionServices (548)
+[2020.05.02-20.18.28:617][267]LogModuleManager: Shutting down and abandoning module ViewportSnapping (546)
+[2020.05.02-20.18.28:617][267]LogModuleManager: Shutting down and abandoning module ViewportInteraction (544)
+[2020.05.02-20.18.28:617][267]LogModuleManager: Shutting down and abandoning module ClothPainter (542)
+[2020.05.02-20.18.28:617][267]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (541)
+[2020.05.02-20.18.28:617][267]LogModuleManager: Shutting down and abandoning module LogVisualizer (538)
+[2020.05.02-20.18.28:617][267]LogModuleManager: Shutting down and abandoning module IntroTutorials (536)
+[2020.05.02-20.18.28:617][267]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (535)
+[2020.05.02-20.18.28:617][267]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (532)
+[2020.05.02-20.18.28:617][267]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (530)
+[2020.05.02-20.18.28:617][267]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (528)
+[2020.05.02-20.18.28:617][267]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (526)
+[2020.05.02-20.18.28:617][267]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (525)
+[2020.05.02-20.18.29:355][267]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (522)
+[2020.05.02-20.18.29:355][267]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (520)
+[2020.05.02-20.18.29:355][267]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (518)
+[2020.05.02-20.18.29:355][267]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (516)
+[2020.05.02-20.18.29:355][267]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (514)
+[2020.05.02-20.18.29:355][267]LogModuleManager: Shutting down and abandoning module InputBindingEditor (512)
+[2020.05.02-20.18.29:355][267]LogModuleManager: Shutting down and abandoning module MergeActors (510)
+[2020.05.02-20.18.29:355][267]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (508)
+[2020.05.02-20.18.29:355][267]LogModuleManager: Shutting down and abandoning module LocalizationService (507)
+[2020.05.02-20.18.29:355][267]LogModuleManager: Shutting down and abandoning module HardwareTargeting (504)
+[2020.05.02-20.18.29:355][267]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (502)
+[2020.05.02-20.18.29:355][267]LogModuleManager: Shutting down and abandoning module UndoHistory (500)
+[2020.05.02-20.18.29:355][267]LogModuleManager: Shutting down and abandoning module XmlParser (498)
+[2020.05.02-20.18.29:355][267]LogModuleManager: Shutting down and abandoning module Blutility (496)
+[2020.05.02-20.18.29:355][267]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (494)
+[2020.05.02-20.18.29:355][267]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (493)
+[2020.05.02-20.18.29:355][267]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (490)
+[2020.05.02-20.18.29:356][267]LogModuleManager: Shutting down and abandoning module SettingsEditor (488)
+[2020.05.02-20.18.29:356][267]LogModuleManager: Shutting down and abandoning module ProjectLauncher (486)
+[2020.05.02-20.18.29:356][267]LogModuleManager: Shutting down and abandoning module SessionFrontend (484)
+[2020.05.02-20.18.29:356][267]LogModuleManager: Shutting down and abandoning module ProfilerClient (482)
+[2020.05.02-20.18.29:356][267]LogModuleManager: Shutting down and abandoning module DeviceManager (480)
+[2020.05.02-20.18.29:356][267]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (479)
+[2020.05.02-20.18.29:411][267]LogModuleManager: Shutting down and abandoning module AutomationController (476)
+[2020.05.02-20.18.29:411][267]LogModuleManager: Shutting down and abandoning module AutomationWindow (474)
+[2020.05.02-20.18.29:411][267]LogModuleManager: Shutting down and abandoning module Layers (472)
+[2020.05.02-20.18.29:411][267]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (470)
+[2020.05.02-20.18.29:411][267]LogModuleManager: Shutting down and abandoning module DetailCustomizations (468)
+[2020.05.02-20.18.29:411][267]LogModuleManager: Shutting down and abandoning module PackagesDialog (466)
+[2020.05.02-20.18.29:411][267]LogModuleManager: Shutting down and abandoning module Persona (464)
+[2020.05.02-20.18.29:411][267]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (463)
+[2020.05.02-20.18.29:411][267]LogModuleManager: Shutting down and abandoning module AnimGraph (461)
+[2020.05.02-20.18.29:411][267]LogModuleManager: Shutting down and abandoning module Kismet (458)
+[2020.05.02-20.18.29:415][267]LogModuleManager: Shutting down and abandoning module GraphEditor (456)
+[2020.05.02-20.18.29:415][267]LogModuleManager: Shutting down and abandoning module ClassViewer (454)
+[2020.05.02-20.18.29:415][267]LogModuleManager: Shutting down and abandoning module Toolbox (452)
+[2020.05.02-20.18.29:415][267]LogModuleManager: Shutting down and abandoning module ModuleUI (450)
+[2020.05.02-20.18.29:415][267]LogModuleManager: Shutting down and abandoning module MovieSceneTools (448)
+[2020.05.02-20.18.29:415][267]LogModuleManager: Shutting down and abandoning module OutputLog (446)
+[2020.05.02-20.18.29:415][267]LogModuleManager: Shutting down and abandoning module GammaUI (444)
+[2020.05.02-20.18.29:415][267]LogModuleManager: Shutting down and abandoning module Documentation (442)
+[2020.05.02-20.18.29:415][267]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (440)
+[2020.05.02-20.18.29:415][267]LogModuleManager: Shutting down and abandoning module MovieScene (438)
+[2020.05.02-20.18.29:415][267]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (436)
+[2020.05.02-20.18.29:415][267]LogModuleManager: Shutting down and abandoning module LauncherPlatform (434)
+[2020.05.02-20.18.29:415][267]LogModuleManager: Shutting down and abandoning module AnalyticsET (432)
+[2020.05.02-20.18.29:415][267]LogModuleManager: Shutting down and abandoning module PortalServices (430)
+[2020.05.02-20.18.29:415][267]LogModuleManager: Shutting down and abandoning module PortalRpc (428)
+[2020.05.02-20.18.29:415][267]LogModuleManager: Shutting down and abandoning module MessagingRpc (426)
+[2020.05.02-20.18.29:415][267]LogModuleManager: Shutting down and abandoning module AIModule (424)
+[2020.05.02-20.18.29:415][267]LogModuleManager: Shutting down and abandoning module GameplayDebugger (423)
+[2020.05.02-20.18.29:415][267]LogModuleManager: Shutting down and abandoning module AITestSuite (421)
+[2020.05.02-20.18.29:415][267]LogModuleManager: Shutting down and abandoning module NavigationSystem (419)
+[2020.05.02-20.18.29:415][267]LogModuleManager: Shutting down and abandoning module DesktopPlatform (416)
+[2020.05.02-20.18.29:415][267]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (414)
+[2020.05.02-20.18.29:418][267]LogModuleManager: Shutting down and abandoning module ProfilerService (412)
+[2020.05.02-20.18.29:606][267]LogModuleManager: Shutting down and abandoning module TaskGraph (410)
+[2020.05.02-20.18.29:606][267]LogModuleManager: Shutting down and abandoning module SubstanceLiveLink (408)
+[2020.05.02-20.18.29:606][267]LogModuleManager: Shutting down and abandoning module SubstanceSource (406)
+[2020.05.02-20.18.29:606][267]LogModuleManager: Shutting down and abandoning module SubstanceEditor (404)
+[2020.05.02-20.18.29:606][267]LogModuleManager: Shutting down and abandoning module SteamVRController (402)
+[2020.05.02-20.18.29:606][267]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (400)
+[2020.05.02-20.18.29:606][267]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (398)
+[2020.05.02-20.18.29:606][267]LogModuleManager: Shutting down and abandoning module OculusInput (396)
+[2020.05.02-20.18.29:606][267]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (394)
+[2020.05.02-20.18.29:606][267]LogModuleManager: Shutting down and abandoning module EditableMesh (392)
+[2020.05.02-20.18.29:607][267]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (390)
+[2020.05.02-20.18.29:607][267]LogModuleManager: Shutting down and abandoning module CableComponent (388)
+[2020.05.02-20.18.29:607][267]LogModuleManager: Shutting down and abandoning module AudioCapture (386)
+[2020.05.02-20.18.29:607][267]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (384)
+[2020.05.02-20.18.29:607][267]LogModuleManager: Shutting down and abandoning module AndroidPermission (382)
+[2020.05.02-20.18.29:607][267]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (380)
+[2020.05.02-20.18.29:607][267]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (378)
+[2020.05.02-20.18.29:607][267]LogModuleManager: Shutting down and abandoning module MediaCompositing (376)
+[2020.05.02-20.18.29:607][267]LogModuleManager: Shutting down and abandoning module LinearTimecode (374)
+[2020.05.02-20.18.29:607][267]LogModuleManager: Shutting down and abandoning module ImgMedia (372)
+[2020.05.02-20.18.29:610][267]LogModuleManager: Shutting down and abandoning module HTML5Networking (370)
+[2020.05.02-20.18.29:610][267]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (368)
+[2020.05.02-20.18.29:610][267]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (366)
+[2020.05.02-20.18.29:610][267]LogModuleManager: Shutting down and abandoning module BackChannel (364)
+[2020.05.02-20.18.29:610][267]LogModuleManager: Shutting down and abandoning module AppleVision (362)
+[2020.05.02-20.18.29:610][267]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (360)
+[2020.05.02-20.18.29:610][267]LogModuleManager: Shutting down and abandoning module AppleImageUtils (358)
+[2020.05.02-20.18.29:610][267]LogModuleManager: Shutting down and abandoning module AlembicImporter (356)
+[2020.05.02-20.18.29:610][267]LogModuleManager: Shutting down and abandoning module AlembicLibrary (355)
+[2020.05.02-20.18.29:610][267]LogModuleManager: Shutting down and abandoning module GeometryCache (354)
+[2020.05.02-20.18.29:610][267]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (353)
+[2020.05.02-20.18.29:610][267]LogModuleManager: Shutting down and abandoning module VariantManagerContent (348)
+[2020.05.02-20.18.29:610][267]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (346)
+[2020.05.02-20.18.29:610][267]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (344)
+[2020.05.02-20.18.29:610][267]LogModuleManager: Shutting down and abandoning module PluginBrowser (342)
+[2020.05.02-20.18.29:610][267]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (340)
+[2020.05.02-20.18.29:610][267]LogModuleManager: Shutting down and abandoning module PolygonModeling (338)
+[2020.05.02-20.18.29:610][267]LogModuleManager: Shutting down and abandoning module MeshEditor (336)
+[2020.05.02-20.18.29:610][267]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (334)
+[2020.05.02-20.18.29:610][267]LogModuleManager: Shutting down and abandoning module CryptoKeys (332)
+[2020.05.02-20.18.29:610][267]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (330)
+[2020.05.02-20.18.29:610][267]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (328)
+[2020.05.02-20.18.29:610][267]LogModuleManager: Shutting down and abandoning module UObjectPlugin (326)
+[2020.05.02-20.18.29:610][267]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (324)
+[2020.05.02-20.18.29:610][267]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (322)
+[2020.05.02-20.18.29:610][267]LogModuleManager: Shutting down and abandoning module GitSourceControl (320)
+[2020.05.02-20.18.29:610][267]LogModuleManager: Shutting down and abandoning module SourceControl (319)
+[2020.05.02-20.18.29:610][267]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (316)
+[2020.05.02-20.18.29:610][267]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (314)
+[2020.05.02-20.18.29:610][267]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (312)
+[2020.05.02-20.18.29:610][267]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (310)
+[2020.05.02-20.18.29:610][267]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (308)
+[2020.05.02-20.18.29:610][267]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (306)
+[2020.05.02-20.18.29:610][267]LogModuleManager: Shutting down and abandoning module Paper2DEditor (304)
+[2020.05.02-20.18.29:610][267]LogModuleManager: Shutting down and abandoning module MeshPaint (303)
+[2020.05.02-20.18.29:610][267]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (300)
+[2020.05.02-20.18.29:610][267]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (298)
+[2020.05.02-20.18.29:610][267]LogModuleManager: Shutting down and abandoning module PhysXVehicles (296)
+[2020.05.02-20.18.29:610][267]LogModuleManager: Shutting down and abandoning module OculusEditor (294)
+[2020.05.02-20.18.29:610][267]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (292)
+[2020.05.02-20.18.29:610][267]LogModuleManager: Shutting down and abandoning module ApexDestructionEditor (290)
+[2020.05.02-20.18.29:611][267]LogModuleManager: Shutting down and abandoning module ApexDestruction (288)
+[2020.05.02-20.18.29:611][267]LogModuleManager: Shutting down and abandoning module ActorSequence (286)
+[2020.05.02-20.18.29:611][267]LogModuleManager: Shutting down and abandoning module UdpMessaging (284)
+[2020.05.02-20.18.29:711][267]LogModuleManager: Shutting down and abandoning module TcpMessaging (282)
+[2020.05.02-20.18.29:812][267]LogModuleManager: Shutting down and abandoning module SubstanceCore (280)
+[2020.05.02-20.18.29:812][267]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (278)
+[2020.05.02-20.18.29:812][267]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (276)
+[2020.05.02-20.18.29:812][267]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (274)
+[2020.05.02-20.18.29:812][267]LogModuleManager: Shutting down and abandoning module FacialAnimation (272)
+[2020.05.02-20.18.29:812][267]LogModuleManager: Shutting down and abandoning module DataValidation (270)
+[2020.05.02-20.18.29:812][267]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (268)
+[2020.05.02-20.18.29:813][267]LogModuleManager: Shutting down and abandoning module LevelEditor (267)
+[2020.05.02-20.18.29:814][267]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (266)
+[2020.05.02-20.18.29:815][267]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (264)
+[2020.05.02-20.18.29:815][267]LogModuleManager: Shutting down and abandoning module MainFrame (262)
+[2020.05.02-20.18.29:815][267]LogModuleManager: Shutting down and abandoning module HotReload (261)
+[2020.05.02-20.18.29:816][267]LogModuleManager: Shutting down and abandoning module ContentBrowser (257)
+[2020.05.02-20.18.29:821][267]LogModuleManager: Shutting down and abandoning module TreeMap (255)
+[2020.05.02-20.18.29:821][267]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2020.05.02-20.18.29:821][267]LogModuleManager: Shutting down and abandoning module AISupportModule (250)
+[2020.05.02-20.18.29:821][267]LogModuleManager: Shutting down and abandoning module Paper2D (248)
+[2020.05.02-20.18.29:821][267]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (246)
+[2020.05.02-20.18.29:821][267]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (244)
+[2020.05.02-20.18.29:821][267]LogModuleManager: Shutting down and abandoning module WmfMedia (242)
+[2020.05.02-20.18.29:824][267]LogModuleManager: Shutting down and abandoning module Media (241)
+[2020.05.02-20.18.29:831][267]LogModuleManager: Shutting down and abandoning module PacketHandler (238)
+[2020.05.02-20.18.29:831][267]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (236)
+[2020.05.02-20.18.29:831][267]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (234)
+[2020.05.02-20.18.29:831][267]LogModuleManager: Shutting down and abandoning module MediaAssets (232)
+[2020.05.02-20.18.29:831][267]LogModuleManager: Shutting down and abandoning module Overlay (230)
+[2020.05.02-20.18.29:831][267]LogModuleManager: Shutting down and abandoning module OverlayEditor (229)
+[2020.05.02-20.18.29:831][267]LogModuleManager: Shutting down and abandoning module VREditor (226)
+[2020.05.02-20.18.29:831][267]LogModuleManager: Shutting down and abandoning module StringTableEditor (224)
+[2020.05.02-20.18.29:831][267]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (222)
+[2020.05.02-20.18.29:831][267]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (220)
+[2020.05.02-20.18.29:831][267]LogModuleManager: Shutting down and abandoning module FunctionalTesting (218)
+[2020.05.02-20.18.29:831][267]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (216)
+[2020.05.02-20.18.29:831][267]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (215)
+[2020.05.02-20.18.29:831][267]LogModuleManager: Shutting down and abandoning module UMG (212)
+[2020.05.02-20.18.29:831][267]LogModuleManager: Shutting down and abandoning module UMGEditor (211)
+[2020.05.02-20.18.29:831][267]LogModuleManager: Shutting down and abandoning module Sequencer (210)
+[2020.05.02-20.18.29:831][267]LogModuleManager: Shutting down and abandoning module MessageLog (207)
+[2020.05.02-20.18.29:831][267]LogModuleManager: Shutting down and abandoning module SlateReflector (202)
+[2020.05.02-20.18.29:832][267]LogModuleManager: Shutting down and abandoning module Slate (200)
+[2020.05.02-20.18.29:832][267]LogModuleManager: Shutting down and abandoning module EditorStyle (198)
+[2020.05.02-20.18.29:833][267]LogModuleManager: Shutting down and abandoning module MRMesh (196)
+[2020.05.02-20.18.29:833][267]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (194)
+[2020.05.02-20.18.29:833][267]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (192)
+[2020.05.02-20.18.29:833][267]LogModuleManager: Shutting down and abandoning module XAudio2 (190)
+[2020.05.02-20.18.29:833][267]LogModuleManager: Shutting down and abandoning module Networking (188)
+[2020.05.02-20.18.29:833][267]LogModuleManager: Shutting down and abandoning module Core (186)
+[2020.05.02-20.18.29:833][267]LogModuleManager: Shutting down and abandoning module LevelSequence (184)
+[2020.05.02-20.18.29:833][267]LogModuleManager: Shutting down and abandoning module KismetCompiler (182)
+[2020.05.02-20.18.29:833][267]LogModuleManager: Shutting down and abandoning module MeshUtilities (180)
+[2020.05.02-20.18.29:833][267]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (179)
+[2020.05.02-20.18.29:833][267]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (178)
+[2020.05.02-20.18.29:833][267]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (177)
+[2020.05.02-20.18.29:833][267]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (175)
+[2020.05.02-20.18.29:833][267]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (173)
+[2020.05.02-20.18.29:833][267]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (171)
+[2020.05.02-20.18.29:833][267]LogModuleManager: Shutting down and abandoning module MaterialBaking (167)
+[2020.05.02-20.18.29:833][267]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (163)
+[2020.05.02-20.18.29:833][267]LogModuleManager: Shutting down and abandoning module DerivedDataCache (160)
+[2020.05.02-20.18.29:847][267]LogDerivedDataCache: Shutdown
+[2020.05.02-20.18.29:847][267]LogModuleManager: Shutting down and abandoning module XGEController (158)
+[2020.05.02-20.18.29:847][267]LogModuleManager: Shutting down and abandoning module TargetPlatform (156)
+[2020.05.02-20.18.29:847][267]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (155)
+[2020.05.02-20.18.29:847][267]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (153)
+[2020.05.02-20.18.29:847][267]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (151)
+[2020.05.02-20.18.29:847][267]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (149)
+[2020.05.02-20.18.29:847][267]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (147)
+[2020.05.02-20.18.29:847][267]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (145)
+[2020.05.02-20.18.29:847][267]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (143)
+[2020.05.02-20.18.29:847][267]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (141)
+[2020.05.02-20.18.29:847][267]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (139)
+[2020.05.02-20.18.29:847][267]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (137)
+[2020.05.02-20.18.29:847][267]LogModuleManager: Shutting down and abandoning module ImageWrapper (136)
+[2020.05.02-20.18.29:847][267]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (133)
+[2020.05.02-20.18.29:847][267]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (131)
+[2020.05.02-20.18.29:847][267]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (129)
+[2020.05.02-20.18.29:847][267]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (127)
+[2020.05.02-20.18.29:847][267]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (125)
+[2020.05.02-20.18.29:848][267]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (123)
+[2020.05.02-20.18.29:848][267]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (121)
+[2020.05.02-20.18.29:848][267]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (119)
+[2020.05.02-20.18.29:848][267]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (117)
+[2020.05.02-20.18.29:848][267]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (115)
+[2020.05.02-20.18.29:848][267]LogModuleManager: Shutting down and abandoning module Messaging (113)
+[2020.05.02-20.18.29:848][267]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (111)
+[2020.05.02-20.18.29:849][267]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (109)
+[2020.05.02-20.18.29:849][267]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (107)
+[2020.05.02-20.18.29:853][267]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (105)
+[2020.05.02-20.18.29:853][267]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (103)
+[2020.05.02-20.18.29:853][267]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (101)
+[2020.05.02-20.18.29:853][267]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (99)
+[2020.05.02-20.18.29:853][267]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (97)
+[2020.05.02-20.18.29:853][267]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (95)
+[2020.05.02-20.18.29:853][267]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (93)
+[2020.05.02-20.18.29:853][267]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (91)
+[2020.05.02-20.18.29:853][267]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (89)
+[2020.05.02-20.18.29:853][267]LogModuleManager: Shutting down and abandoning module InputCore (86)
+[2020.05.02-20.18.29:853][267]LogModuleManager: Shutting down and abandoning module Settings (84)
+[2020.05.02-20.18.29:853][267]LogModuleManager: Shutting down and abandoning module PhysXCooking (82)
+[2020.05.02-20.18.29:853][267]LogModuleManager: Shutting down and abandoning module SteamVR (80)
+[2020.05.02-20.18.29:854][267]LogHMD: Freeing OpenVRDLLHandle.
+[2020.05.02-20.18.29:854][267]LogModuleManager: Shutting down and abandoning module OculusHMD (78)
+[2020.05.02-20.18.29:854][267]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (76)
+[2020.05.02-20.18.29:854][267]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (74)
+[2020.05.02-20.18.29:854][267]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (72)
+[2020.05.02-20.18.29:854][267]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (68)
+[2020.05.02-20.18.29:854][267]LogModuleManager: Shutting down and abandoning module XMPP (63)
+[2020.05.02-20.18.29:854][267]LogModuleManager: Shutting down and abandoning module WebSockets (62)
+[2020.05.02-20.18.29:866][267]LogModuleManager: Shutting down and abandoning module HTTP (59)
+[2020.05.02-20.18.29:866][267]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2020.05.02-20.18.29:866][267]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7B1A4205-4A89-FA52-D368-F4B38BDC5159%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=d6c43ee94bd4aba45c5c7cbaec0f7cf4%7C82bfaa9fd12a42bdb09bd53da49d1a85%7Cae460e0a-3afc-4d82-b3b9-664b0b864227&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2020.05.02-20.18.29:866][267]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2020.05.02-20.18.30:383][267]LogModuleManager: Shutting down and abandoning module SSL (58)
+[2020.05.02-20.18.30:384][267]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (54)
+[2020.05.02-20.18.30:384][267]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (52)
+[2020.05.02-20.18.30:384][267]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (50)
+[2020.05.02-20.18.30:384][267]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (48)
+[2020.05.02-20.18.30:385][267]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (46)
+[2020.05.02-20.18.30:385][267]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (44)
+[2020.05.02-20.18.30:385][267]LogModuleManager: Shutting down and abandoning module MagicLeapController (42)
+[2020.05.02-20.18.30:385][267]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2020.05.02-20.18.30:385][267]LogModuleManager: Shutting down and abandoning module MagicLeap (40)
+[2020.05.02-20.18.30:385][267]LogModuleManager: Shutting down and abandoning module DatasmithContent (38)
+[2020.05.02-20.18.30:385][267]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2020.05.02-20.18.30:385][267]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2020.05.02-20.18.30:385][267]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2020.05.02-20.18.30:385][267]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2020.05.02-20.18.30:385][267]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2020.05.02-20.18.30:385][267]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2020.05.02-20.18.30:385][267]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2020.05.02-20.18.30:386][267]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2020.05.02-20.18.30:386][267]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2020.05.02-20.18.30:386][267]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2020.05.02-20.18.30:386][267]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2020.05.02-20.18.30:386][267]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2020.05.02-20.18.30:386][267]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2020.05.02-20.18.30:386][267]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2020.05.02-20.18.30:386][267]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2020.05.02-20.18.30:386][267]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2020.05.02-20.18.30:386][267]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2020.05.02-20.18.30:386][267]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2020.05.02-20.18.30:390][267]LogExit: Exiting.
+[2020.05.02-20.18.30:410][267]Log file closed, 05/02/20 21:18:30
